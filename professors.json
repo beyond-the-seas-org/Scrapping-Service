@@ -1,0 +1,2361 @@
+1     ▼ Carnegie Mellon University   18.4 166
+Faculty   # Pubs Adj. #
+     Graham Neubig nlp    145 37.5
+     David P. Woodruff ml,theory    111 37.6
+     Abhinav Gupta 0001 vision   105 30.9
+     J. Zico Kolter ml    85 25.5
+     Pradeep Ravikumar ml    84 22.0
+     Tuomas Sandholm  ml,ai    84 29.7
+     Howie Choset robotics    78 18.1
+     Deva Ramanan vision    74 22.2
+     Martial Hebert vision    71 20.3
+     Elaine Shi security,crypto    65 17.2
+     Zhiwei Steven Wu ml    61 14.5
+     Chris Harrison 0001 hci    58 16.2
+     Maxim Likhachev robotics    56 16.8
+     Louis-Philippe Morency nlp    54 11.3
+     Yuanzhi Li ml   53 18.6
+     Vincent Conitzer  ai    52 19.9
+     Vyas Sekar networks    51 10.0
+     Scott E. Hudson hci    48 11.8
+     Maria-Florina Balcan ml    45 13.5
+     Tom M. Mitchell nlp    45 13.5
+     Yiming Yang ml,nlp    45 11.8
+     Fei Fang ai    42 8.8
+     Vipul Goyal crypto    42 13.6
+     Jun-Yan Zhu vision    42 8.5
+     Anupam Gupta 0001 theory    41 12.5
+     J. Andrew Bagnell robotics,ml,ai    40 9.6
+     Bernhard Haeupler theory    35 13.5
+     Srinivasa G. Narasimhan vision    35 8.9
+     Deepak Pathak ml    34 8.9
+     Shubham Tulsiani vision    34 9.0
+     Yonatan Bisk nlp    33 7.9
+     Andrew Pavlo db    33 6.7
+     Nicolas Christin security,hci    32 7.4
+     Lorrie Faith Cranor  hci    32 5.4
+     Pravesh Kothari theory    32 9.6
+     Swarun Kumar mobile,networks    32 7.4
+     Lining Yao hci    32 5.6
+     Mayank Goel hci    30 6.4
+     Jessica K. Hodgins  graphics   29 6.7
+     Jason I. Hong hci    29 6.6
+     Ameet Talwalkar ml    29 6.7
+     Alan W. Black nlp    28 7.4
+     Christian Kästner se    28 6.5
+     Geoffrey J. Gordon ml    27 7.3
+     David Held robotics    27 6.6
+     Christos Faloutsos  web+ir    26 6.1
+     Aniket Kittur hci    25 6.1
+     Benjamin Moseley ml,theory    25 7.5
+     Brad A. Myers  hci    25 6.5
+     Aarti Singh ml    25 7.3
+     David G. Andersen networks,db    24 5.3
+     Katerina Fragkiadaki vision,ml    24 5.7
+     Matt Fredrikson ml,security    24 7.1
+     Bryan Parno security    24 4.3
+     Maarten Sap nlp    24 4.2
+     Matthew T. Mason  robotics    23 7.3
+     Andrej Risteski ml    23 7.9
+     Bogdan Vasilescu se    23 5.2
+     Yuvraj Agarwal hci    22 4.9
+     Phillip B. Gibbons  arch    22 3.5
+     Brandon Lucia arch    22 7.5
+     Ryan O'Donnell theory    22 8.2
+     Srinivasan Seshan  networks    22 4.8
+     Ioannis Gkioulekas graphics,vision    21 5.5
+     Minchen Li graphics    21 4.2
+     Carolyn P. Rosé nlp    21 6.1
+     Norman M. Sadeh hci,nlp    21 4.0
+     Gregory R. Ganger os   20 3.3
+     Carl Kingsford comp. bio    20 7.2
+     David Lindlbauer hci    20 4.5
+     Lujo Bauer hci,security    19 2.9
+     James McCann hci   19 4.7
+     Virginia Smith ml    19 4.2
+     Keenan Crane graphics    18 5.9
+     Anupam Datta security,ai,ml    18 4.3
+     Robert E. Kraut  hci    18 4.9
+     Nathan Beckmann arch    17 4.4
+     Jan Hoffmann 0002 pl    17 5.4
+     Matthew O'Toole vision,graphics    17 4.3
+     Jodi Forlizzi  hci    16 3.2
+     Daniel Fried nlp    16 4.2
+     Hartmut Geyer robotics    16 5.3
+     Jessica Hammer hci    16 3.4
+     Dimitrios Skarlatos 0002 arch    16 2.7
+     Sivaraman Balakrishnan ml    15 3.4
+     Mor Harchol-Balter  metrics    15 4.2
+     Zhihao Jia os,ml,db    15 2.5
+     Nihar B. Shah ai,ml    15 4.9
+     Justine Sherry networks    15 3.0
+     John Zimmerman hci    15 3.2
+     Jamie Callan web+ir    14 4.9
+     Eric Nyberg nlp    14 3.6
+     Ragunathan Rajkumar embedded    14 4.6
+     David Brumley security    13 3.1
+     Laura A. Dabbish hci    13 3.0
+     Diana Marculescu  eda    13 3.3
+     Bhiksha Raj ml,vision    13 2.6
+     Christopher G. Atkeson robotics   12 3.4
+     Alexandra Ion hci    12 2.6
+     Takeo Kanade  vision    12 3.5
+     Geoff Kaufman hci    12 2.8
+     Todd C. Mowry  arch    12 1.9
+     André Platzer embedded,logic    12 4.5
+     K. V. Rashmi networks,os    12 3.0
+     Emma Strubell nlp    12 3.2
+     Henny Admoni robotics    11 3.0
+     Guy E. Blelloch  pl,db    11 3.0
+     William Whittaker robotics    11 2.8
+     Claire Le Goues se    10 2.9
+     Jian Ma 0004 comp. bio,ml    10 2.6
+     Yong-Lae Park robotics    10 2.3
+     Nancy S. Pollard robotics    10 2.5
+     Umut A. Acar pl    9 2.1
+     Alessandro Acquisti hci    9 1.5
+     Patrick Carrington hci    9 1.8
+     Vincent J. Hellendoorn se,ml    9 2.4
+     James D. Herbsleb se   9 3.4
+     Alonzo Kelly robotics    9 3.4
+     Kenneth R. Koedinger hci    9 2.4
+     Robert Harper 0001 pl    8 3.3
+     Eunsuk Kang se,eda    8 2.0
+     Radu Marculescu eda,ml    8 2.0
+     Gary L. Miller  theory    8 2.1
+     Wenting Zheng security,networks,os    8 1.6
+     Sara B. Kiesler  hci    7 1.7
+     Changliu Liu robotics    7 2.3
+     Amy Ogan hci    7 1.1
+     Peter Steenkiste networks    7 1.4
+     George Amvrosiadis hpc,os    6 1.2
+     Kathleen M. Carley nlp    6 2.7
+     Alan M. Frieze theory    6 2.6
+     Virgil D. Gligor security   6 2.0
+     James C. Hoe  arch    6 1.3
+     Bruno Sinopoli embedded,networks    6 1.2
+     Jonathan Aldrich pl,se    5 0.9
+     Ziv Bar-Joseph comp. bio    5 1.7
+     Tianqi Chen 0001 ml    5 1.0
+     Karl Crary pl    5 4.0
+     Levent Burak Kara graphics,hci    5 1.5
+     Illah R. Nourbakhsh ai    5 1.5
+     Kemal Oflazer nlp    5 1.4
+     Rohan Padhye se    5 1.5
+     Vincent Aleven hci    4 1.0
+     David Garlan  se    4 1.0
+     Ronald Rosenfeld hci    4 0.7
+     Mahadev Satyanarayanan  mobile    4 0.9
+     Daniel P. Siewiorek  hci    4 0.9
+     Travis D. Breaux se    3 0.5
+     Tai Sing Lee ml    3 0.7
+     Randal E. Bryant      2 0.6
+     Justine Cassell      2 0.7
+     Seth Copen Goldstein robotics    2 0.5
+     Seyoung Kim ml    2 1.0
+     Christopher J. Langmead comp. bio   2 0.6
+     Heather Miller     2 0.3
+     Frank Pfenning      2 0.7
+     Stephen D. Brookes     1 0.3
+     Michael A. Erdmann     1 0.1
+     Gary K. Fedder     1 0.3
+     Rayid Ghani     1 0.3
+     Bruce H. Krogh     1 0.2
+     Jack Mostow     1 0.5
+     Robert F. Murphy     1 0.3
+     Priya Narasimhan     1 0.2
+     Dana S. Scott       1 0.2
+     John C. Stamper     1 0.3
+2    ▼ Univ. of Illinois at Urbana-Champaign   14.2 116
+Faculty   # Pubs Adj. #
+     Jiawei Han 0001  nlp,web+ir    109 20.6
+     Heng Ji nlp    104 22.7
+     Alexander G. Schwing vision,ml    96 26.1
+     Bo Li 0026 ml    79 15.2
+     Josep Torrellas  arch    61 14.9
+     Jimeng Sun 0001 ai,ml    53 12.1
+     Kris Hauser robotics    45 18.8
+     Hanghang Tong web+ir    42 9.1
+     Nam Sung Kim  arch    41 8.1
+     Christopher W. Fletcher arch    38 7.5
+     Gang Wang 0011 security    37 7.9
+     Shenlong Wang vision    37 7.6
+     Jian Peng 0001 ml    36 8.0
+     Han Zhao 0002 ml    36 9.5
+     Wen-Mei W. Hwu arch    35 5.5
+     Tianyin Xu os    35 5.6
+     Arindam Banerjee 0001 ml    33 12.5
+     Deming Chen eda    33 7.0
+     Oluwasanmi Koyejo ml    33 8.7
+     Yu-Xiong Wang vision    33 9.8
+     Tarek F. Abdelzaher  web+ir,embedded,hci    32 4.9
+     Nancy M. Amato  robotics    31 8.0
+     Saurabh Gupta 0001 vision    31 6.9
+     Karrie Karahalios hci    31 7.0
+     Nan Jiang 0008 ml    29 8.4
+     Romit Roy Choudhury mobile    28 7.8
+     David A. Forsyth  vision    28 8.9
+     Dakshita Khurana crypto    28 8.4
+     ChengXiang Zhai  web+ir    28 7.4
+     Derek Hoiem vision    27 7.6
+     Svetlana Lazebnik vision    27 8.3
+     Mahesh Viswanathan 0001 logic    25 7.4
+     Yuan Zhou 0007 ml,theory    25 7.6
+     Timothy M. Chan theory   23 13.2
+     Saugata Ghose arch    23 2.8
+     Jingrui He ai,web+ir,ml    23 6.0
+     Lingming Zhang 0001 se    23 5.4
+     Kevin Chen-Chuan Chang nlp,web+ir,db    22 4.8
+     Jian Huang 0006 arch    22 5.0
+     Adam Bates 0001 security    21 4.1
+     Chandra Chekuri theory    21 10.0
+     Jugal Garg theory    21 7.8
+     Steven M. LaValle robotics    20 6.3
+     Kirill Levchenko security    20 3.4
+     Rakesh Kumar 0002 arch    19 4.6
+     Ruta Mehta theory,ecom    19 6.1
+     Ling Ren 0001 security    19 5.1
+     Gagandeep Singh 0001 pl,ml    19 4.7
+     Darko Marinov se    18 3.5
+     Laxmikant V. Kalé  hpc    17 5.0
+     Matus Telgarsky ml    17 8.1
+     Timothy Bretl robotics    16 4.9
+     Marco Caccamo embedded    16 3.3
+     Brighten Godfrey networks    16 3.4
+     Carl A. Gunter security    16 3.0
+     Deepak Vasisht networks    16 4.0
+     P. Madhusudan pl,logic    15 4.1
+     Andrew Miller 0001 security    15 2.8
+     Lui Sha  embedded    15 3.0
+     Mark Hasegawa-Johnson ml    14 2.9
+     Olgica Milenkovic ml    14 4.8
+     Sasa Misailovic se,pl    14 3.3
+     Ranjitha Kumar hci    13 2.6
+     Brian P. Bailey hci    12 2.9
+     Wai-Tat Fu hci    12 3.9
+     Ravishankar K. Iyer  ml   12 2.1
+     Daniel Kang db    12 2.6
+     Radhika Mittal networks    12 2.5
+     Grigore Rosu pl,logic    12 3.8
+     Craig B. Zilles csed    12 4.5
+     Sarita V. Adve  arch    11 2.9
+     Sariel Har-Peled theory    11 4.8
+     Sayan Mitra logic,embedded    11 2.7
+     Saurabh Sinha eda,se    11 2.3
+     Julia Hockenmaier nlp    10 3.0
+     Yang Wang 0005 hci    10 2.5
+     Vikram S. Adve  arch    9 2.0
+     Indranil Gupta db,ml    9 2.0
+     Charith Mendis arch,ml,pl    8 1.8
+     Marc Snir  hpc    8 2.0
+     Hari Sundaram web+ir    8 1.9
+     Lav R. Varshney ml,ai    8 1.9
+     Reyhaneh Jabbarvand Behrouz se    7 2.2
+     Jeff Erickson 0001 theory    7 2.2
+     Michael A. Forbes 0001 theory   7 2.9
+     Yongjoo Park db    7 1.8
+     Elahe Soltanaghai mobile,hci    7 1.6
+     Ramnatthan Alagappan os    6 1.1
+     Nikita Borisov security    6 1.2
+     Karthekeyan Chandrasekaran theory    6 2.2
+     Mohammed El-Kebir comp. bio    6 2.2
+     Aishwarya Ganesan os    6 1.1
+     Yih-Chun Hu security    6 1.3
+     Yun Huang 0003 hci    6 1.5
+     Klara Nahrstedt  hci    6 1.6
+     Shobha Vasudevan eda    6 1.5
+     Tandy J. Warnow  comp. bio    6 2.4
+     William Gropp  hpc    5 1.4
+     Roy H. Campbell     4 0.7
+     Paris Smaragdis ml,hci    4 1.4
+     Alex Kirlik hci    3 0.7
+     Luke N. Olson ml    3 0.7
+     Lawrence Rauchwerger hpc    3 0.9
+     Geir E. Dullerud     2 0.3
+     Mani Golparvar Fard vision    2 0.5
+     Roxana Girju nlp   2 0.7
+     Thenkurussi Kesavadas     2 0.3
+     Talia Ringer     2 0.5
+     William H. Sanders  security    2 0.3
+     Shaowen Wang web+ir    2 0.3
+     Gul A. Agha      1 0.5
+     Samuel N. Kamin    1 0.5
+     Bertram Ludäscher     1 0.3
+     David A. Padua      1 0.2
+     Alexander Gerhard Schwing     1 0.3
+     Victoria Stodden     1 0.2
+3    ▼ Univ. of California - San Diego   11.9 117
+Faculty   # Pubs Adj. #
+     Manmohan Krishna Chandraker vision    75 19.4
+     Ravi Ramamoorthi  graphics,vision    72 17.2
+     Nuno Vasconcelos vision    71 22.2
+     Hao Su 0001 vision,ml    66 13.3
+     Xiaolong Wang 0004 vision,ml    63 15.6
+     Daniel M. Kane theory,ml    55 16.6
+     Taylor Berg-Kirkpatrick nlp    54 15.1
+     Xinyu Zhang 0003 mobile    52 14.3
+     Julian J. McAuley nlp    50 13.5
+     Zhuowen Tu vision    43 10.1
+     Farinaz Koushanfar eda    42 10.5
+     Tajana Rosing  eda    35 8.0
+     Jingbo Shang nlp    34 8.1
+     Nikolay Atanasov robotics    33 10.6
+     Henrik I. Christensen robotics    33 9.1
+     Andrew B. Kahng  eda    33 12.1
+     Stefan Savage  metrics,security    33 6.6
+     Kamalika Chaudhuri ml    32 10.9
+     Alex C. Snoeren  metrics,networks    32 6.4
+     Zhiting Hu nlp,ml    31 6.5
+     Shachar Lovett theory    29 9.9
+     Geoffrey M. Voelker  metrics    29 5.4
+     Pengtao Xie ml,ai,nlp    29 8.4
+     Jishen Zhao arch,eda    29 5.7
+     Dinesh Bharadia networks,mobile    28 6.2
+     Steven Swanson arch    27 7.7
+     Mihir Bellare  crypto    24 8.8
+     Alon Orlitsky ml   24 8.9
+     Barna Saha theory    24 9.7
+     Haijun Xia hci    24 6.4
+     Philip J. Guo hci    22 11.6
+     Arya Mazumdar ml    22 8.3
+     Deian Stefan pl,security    22 3.8
+     Michael C. Yip robotics    22 5.8
+     Leo Porter 0001 csed    21 6.5
+     Dean M. Tullsen  arch    21 4.9
+     Steven Dow hci    20 4.4
+     Ranjit Jhala  pl    20 3.4
+     Arun Kumar 0001 db    20 6.1
+     Aaron Schulman metrics    19 3.6
+     Ryan Kastner eda    18 4.0
+     Rose Yu ml    18 4.8
+     Mikhail Belkin ml    17 6.4
+     Sanjoy Dasgupta ml   17 7.7
+     Sorin Lerner pl,hci    17 5.4
+     Sicun Gao ml,ai    16 5.0
+     Yusu Wang 0001 ml    16 4.5
+     Tsui-Wei Weng ml    16 3.5
+     Daniele Micciancio crypto    15 6.8
+     Rajesh K. Gupta 0001 eda,mobile    14 3.4
+     Biwei Huang ml    14 2.9
+     Nadia Polikarpova pl    14 3.0
+     Albert Chern graphics    13 3.4
+     Earlence Fernandes security    13 2.6
+     Tara Javidi ml,vision,eda    13 3.6
+     Tzu-Mao Li graphics    13 2.8
+     Ndapandula Nakashole nlp   13 5.3
+     Michael Thomas Tolley robotics    13 2.2
+     Yuanyuan Zhou 0001 os    13 2.3
+     Garrison W. Cottrell ai    12 2.7
+     Nadia Heninger security    12 2.7
+     Pavel A. Pevzner  comp. bio    12 3.1
+     Tauhidur Rahman hci    12 2.2
+     Haojian Jin hci    11 2.2
+     Nadir Weibel hci    11 2.4
+     Christine Alvarado csed    10 3.0
+     Nick Gravish robotics    10 3.4
+     William G. Griswold csed,hci    10 2.8
+     Scott R. Klemmer hci    10 2.1
+     Pat Pannuto mobile    10 1.9
+     Thomas R. Bewley robotics   9 2.7
+     Babak Salimi db    9 2.3
+     Hao Zhang 0025 vision,ml    9 1.6
+     Henrik Wann Jensen graphics    8 2.1
+     George Porter networks    8 1.2
+     Laurel D. Riek robotics    8 2.9
+     Lawrence K. Saul metrics,ml    8 2.3
+     Kristen Vaccaro hci    8 1.4
+     Mai ElSherief nlp    7 1.3
+     Sylvia L. Herbert robotics    7 1.7
+     David J. Kriegman vision    7 1.5
+     Edward Jay Wang hci    7 1.6
+     Yiying Zhang 0005 arch,os    7 1.9
+     Chung-Kuan Cheng eda   6 1.4
+     Russell Impagliazzo theory    6 1.8
+     Bill Lin 0001 eda    6 1.6
+     Mia Minnes csed    6 2.1
+     Leon Bergen nlp    5 1.4
+     Yoav Freund ml    5 2.1
+     Lilly Irani hci    5 1.8
+     Amy Ousterhout networks    5 1.2
+     Berk Ustun ml    5 1.5
+     Angela J. Yu ml    5 2.2
+     Carlos Jensen se    4 1.0
+     Siavash Mirarab comp. bio    4 1.7
+     George Papen networks   4 0.6
+     Ramamohan Paturi theory   4 1.1
+     Samuel R. Buss theory    3 1.0
+     Michael J. Coblenz se    3 0.7
+     Rob Knight 0001 hci    3 0.4
+     Alex Orailoglu eda    3 1.2
+     Joe Gibbs Politz csed    3 0.5
+     Adalbert Gerald Soosai Raj csed    3 0.8
+     Vineet Bafna comp. bio    2 0.7
+     Nuno Bandeira     2 0.5
+     Daniel Grier theory    2 0.8
+     James D. Hollan hci    2 0.6
+     Yeshaiahu Fainman     1 0.1
+     R. Stuart Geiger     1 0.3
+     Yian Ma     1 0.5
+     Imani N. S. Munyaka     1 0.1
+     Virginia R. de Sa     1 0.5
+     Terrence J. Sejnowski     1 0.5
+     Glenn Tesler    1 0.1
+     Behrouz Touri     1 0.2
+     Alexander Vardy      1 0.3
+     Victor Vianu      1 0.3
+4    ▼ Massachusetts Institute of Technology   11.2 95
+Faculty   # Pubs Adj. #
+     Daniela Rus  robotics    181 40.8
+     Antonio Torralba 0001 vision    128 25.1
+     William T. Freeman  vision    93 16.5
+     Wojciech Matusik graphics    84 15.5
+     Tommi S. Jaakkola ml   70 20.2
+     Regina Barzilay nlp,ml   64 17.0
+     Leslie Pack Kaelbling robotics   64 17.5
+     Frédo Durand  graphics    62 13.2
+     Stefanie Jegelka ml    59 17.0
+     Samuel Madden  db    57 12.5
+     Mohammad Alizadeh networks    56 9.8
+     Dina Katabi  networks    55 13.4
+     Tomás Lozano-Pérez  robotics   54 15.1
+     Constantinos Daskalakis theory,ml    50 16.7
+     Phillip Isola vision,ml    49 12.1
+     Jacob Andreas nlp,ml    47 13.6
+     Vinod Vaikuntanathan crypto,theory    46 13.8
+     Julie A. Shah robotics,ai   44 14.8
+     Russ Tedrake robotics    44 14.9
+     Piotr Indyk  ml,theory    43 12.4
+     Armando Solar-Lezama ml    42 9.9
+     Ankur Moitra theory,ml    41 15.8
+     Virginia Vassilevska Williams theory    41 13.8
+     Justin Solomon 0001 ml,graphics    40 10.8
+     Stefanie Müller 0001 hci    36 6.2
+     David A. Sontag ml    36 10.1
+     Aleksander Madry ml    35 9.5
+     Martin C. Rinard  pl,se    35 11.3
+     Nickolai Zeldovich os    34 8.3
+     Patrick Jaillet ml    33 9.4
+     Hari Balakrishnan  networks    32 7.3
+     Daniel Sánchez 0003 arch    32 9.7
+     R. Ryan Williams theory    32 15.1
+     Srini Devadas arch,security   31 6.9
+     Mohsen Ghaffari 0001 theory   31 13.6
+     Devavrat Shah ml    26 8.7
+     Fadel Adib networks,mobile    23 6.4
+     David R. Karger  hci    22 9.9
+     Michael Carbin ml,pl    21 5.4
+     Jonathan Ragan-Kelley graphics    21 3.8
+     Adam Chlipala pl    20 6.7
+     Samuel B. Hopkins theory    20 5.9
+     Christina Delimitrou arch    19 4.6
+     M. Frans Kaashoek  os   19 4.2
+     Tamara Broderick ml    18 5.2
+     Luca Daniel ml    18 3.4
+     Manya Ghobadi networks    17 2.8
+     John V. Guttag  vision,ml   17 4.5
+     Vivienne Sze robotics    17 4.7
+     Mengjia Yan 0001 arch    17 3.6
+     Saman P. Amarasinghe  arch,pl    16 3.4
+     Arvind arch    15 3.7
+     Asuman E. Ozdaglar ml    15 4.6
+     Duane S. Boning ml    14 3.0
+     Julian Shun db    14 4.2
+     Bonnie Berger  comp. bio,ml    13 3.5
+     Marzyeh Ghassemi ml    13 2.5
+     Rob Miller 0001 hci    13 3.0
+     Adam Belay os,networks    12 2.3
+     Ronitt Rubinfeld  ml,theory    11 2.6
+     Nir Shavit  ml   11 2.5
+     Gregory W. Wornell ml,vision   11 2.1
+     Erik D. Demaine  theory,robotics    10 2.0
+     David K. Gifford  ml,comp. bio   10 3.4
+     Caroline Uhler ml    8 2.3
+     Peter Szolovits ai,nlp    7 1.6
+     Barbara Liskov   db,os,pl   6 1.4
+     Robert Tappan Morris os   6 1.3
+     Seth J. Teller robotics    5 1.4
+     Randall Davis ai   4 1.0
+     Daniel Jackson 0001  se    4 1.3
+     Daniel P. Huttenlocher  web+ir    3 0.7
+     Silvio Micali      3 0.7
+     Ronald L. Rivest   theory    3 0.8
+     Ryan Williams     3 1.0
+     Alan S. Willsky ml    3 1.3
+     Manolis Kellis comp. bio    2 0.6
+     Charles E. Leiserson      2 0.3
+     Muriel Médard     2 0.6
+     Yury Polyanskiy    2 0.4
+     Max M. Shulaker eda    2 0.2
+     John N. Tsitsiklis metrics    2 0.8
+     Harold Abelson    1 0.3
+     Anant Agarwal      1 0.2
+     Robert C. Berwick    1 0.3
+     Polina Golland     1 0.2
+     Jeffrey H. Lang      1 0.2
+     Hae-Seung Lee     1 0.1
+     Andrew Lo     1 0.3
+     Nancy A. Lynch      1 0.3
+     Alexandre Megretski    1 0.2
+     Pablo A. Parrilo     1 0.3
+     David J. Perreault     1 0.3
+     Rahul Sarpeshkar     1 0.3
+     Ron Weiss     1 0.2
+5    ▼ Georgia Institute of Technology   10.5 139
+Faculty   # Pubs Adj. #
+     James M. Rehg vision    61 13.4
+     Animesh Garg robotics,ml    59 10.7
+     Bo Dai 0001 ml    58 11.3
+     Tuo Zhao ml    51 10.2
+     Taesoo Kim security    46 9.8
+     Wenke Lee  security    38 6.8
+     Yingyan (Celine) Lin ml    38 6.0
+     James Hays vision    37 8.6
+     Seth Hutchinson 0001 robotics    37 12.4
+     Evangelos A. Theodorou robotics    35 9.5
+     Sonia Chernova robotics    34 9.7
+     Moinuddin K. Qureshi arch    34 12.5
+     Zsolt Kira vision,robotics    33 8.7
+     Michael Bailey security,metrics    32 5.7
+     Munmun De Choudhury hci    32 7.3
+     Daniel Genkin security    31 5.8
+     Pascal Van Hentenryck ai    30 10.1
+     Judy Hoffman vision,ml    30 7.1
+     Thomas Plötz hci    28 7.0
+     Bo Zhu 0002 graphics    28 5.8
+     Patricio A. Vela robotics    27 8.4
+     Santosh S. Vempala theory    27 9.6
+     Chao Zhang 0014 web+ir    27 4.7
+     Jacob D. Abernethy ml    26 8.4
+     Irfan A. Essa vision,hci    26 5.6
+     Pan Li 0005 ml    26 7.2
+     Tushar Krishna arch    25 6.2
+     Xu Chu db    23 4.8
+     Alex Endert visualization    23 4.8
+     Andrea Thomaz robotics    23 6.6
+     Sehoon Ha robotics    22 6.8
+     Saibal Mukhopadhyay eda    22 6.0
+     Andrea G. Parker hci    22 4.2
+     Thad Starner hci    22 3.6
+     Vladimir Kolesnikov security,crypto    21 6.5
+     Alan Ritter nlp    21 5.8
+     Frank Li 0001 security,metrics    20 6.3
+     Danfei Xu robotics,vision    20 3.9
+     Wei Xu 0004 nlp    20 5.8
+     Joy Arulraj db    19 4.9
+     Panagiotis Tsiotras robotics    19 7.7
+     Srinivas Aluru  hpc,comp. bio    17 4.8
+     Raheem A. Beyah security    17 2.8
+     Angelos D. Keromytis security    17 4.4
+     Haesun Park  ai    17 3.5
+     Mark O. Riedl ai    17 4.9
+     Sahil Singla 0001 theory    17 5.6
+     John T. Stasko visualization,hci    17 4.5
+     Manos Antonakakis security    16 2.9
+     Polo Chau visualization    16 2.9
+     Hyesoon Kim arch    15 3.1
+     Mohit Singh theory    15 4.6
+     Greg Turk robotics,graphics    15 3.5
+     Alberto Dainotti metrics    14 2.7
+     Paul Pearce security    14 2.5
+     Qirun Zhang pl    14 4.0
+     Charles L. Isbell Jr. ml,robotics   13 3.5
+     Fabian Monrose security    13 2.7
+     Brendan Saltaformaggio security    13 2.3
+     Richard W. Vuduc hpc    13 2.5
+     Jan van den Brand theory    12 4.1
+     Matthew C. Gombolay robotics,ai,ml    12 3.4
+     Will Perkins 0001 theory    12 3.9
+     Lauren Wilcox hci    12 2.3
+     Rosa I. Arriaga hci    11 2.3
+     Alexandros Daglis arch    11 2.9
+     Betsy James DiSalvo hci,csed   11 3.3
+     Srijan Kumar web+ir    11 2.8
+     Ling Liu 0001 hpc,db    11 2.7
+     B. Aditya Prakash ai,ml,web+ir    11 2.6
+     Yao Xie 0002 ml    11 3.0
+     Alexander G. Gray ml,nlp    10 2.3
+     Joseph Jaeger crypto    10 4.3
+     Alessandro Orso se    10 2.3
+     Vivek Sarkar  hpc,arch    10 2.5
+     Jun (Jim) Xu metrics,db    10 2.0
+     Yongxin Chen ml    9 3.1
+     Mark A. Davenport ml    9 3.0
+     W. Keith Edwards hci    9 2.4
+     Milos Prvulovic arch    9 2.4
+     Molei Tao ml   9 3.2
+     Alexander Travis Adams hci    8 1.6
+     Ghassan Al-Regib vision    8 1.8
+     Amy S. Bruckman hci    8 1.8
+     Siva Theja Maguluri ml    8 2.4
+     Santosh Pande hpc,se    8 2.3
+     David Devecsery arch,security,os    7 1.9
+     Ashutosh Dhekne mobile,networks    7 1.8
+     Justin K. Romberg ml   7 2.2
+     Christopher J. Rozell ml,ai    7 2.3
+     Ahmed Saeed 0001 networks    7 1.1
+     Shimeng Yu eda    7 1.1
+     Saman A. Zonouz security,robotics    7 1.3
+     Ümit V. Çatalyürek hpc,web+ir    7 1.3
+     Mustaque Ahamad security,web+ir    6 1.5
+     Rahul C. Basole visualization    6 1.9
+     Eva L. Dyer ml    6 1.1
+     Rebecca E. Grinter hci    6 1.8
+     Guanghui Lan ml    6 1.5
+     Shamkant B. Navathe  db    6 1.1
+     Calton Pu security,hpc    6 1.3
+     Harish Ravichandar robotics    6 1.6
+     Alexey Tumanov os,ml    6 0.9
+     Anqi Wu ml    6 1.3
+     Ellen Zegura networks    6 1.2
+     Enlu Zhou ml    6 1.3
+     Juba Ziani ecom    6 1.2
+     Mostafa H. Ammar  networks,mobile    5 1.1
+     Ronald C. Arkin robotics    5 1.3
+     Alexandra Boldyreva security,crypto    5 1.2
+     Ada Gavrilovska hpc    5 1.3
+     Ashok K. Goel 0001 ai    5 1.8
+     Larry Heck nlp    5 0.9
+     Jennifer G. Kim hci    5 1.1
+     Dana Randall theory    5 1.7
+     Edmond Chow hpc   4 1.8
+     Wenjing Liao ml    4 0.9
+     Prasad Tetali theory   4 0.9
+     Constantinos Dovrolis ml    3 1.3
+     Vidya Muthukumar ml   3 1.1
+     Umakishore Ramachandran db    3 0.7
+     Madhavan Swaminathan eda    3 0.4
+     Cecilia Testart metrics    3 0.5
+     Bruce N. Walker hci    3 0.8
+     Peng Chen 0024 ml    2 0.7
+     Tobin Isaac hpc    2 0.6
+     Melody Moore Jackson hci    2 0.3
+     Chethan Pandarinath ml    2 0.6
+     Judith Uchidiuno hci    2 0.4
+     Annie I. Antón     1 0.5
+     Tucker R. Balch     1 0.3
+     Thomas M. Conte     1 0.1
+     Nabil Imam     1 0.0
+     Richard J. Lipton      1 0.2
+     Yunan Luo     1 0.3
+     Christopher J. MacLellan     1 0.3
+     Milena Mihail    1 0.2
+     Arkadi Nemirovski     1 0.3
+     Ashwin Pananjady     1 0.2
+6    ▼ Stanford University   10.3 69
+Faculty   # Pubs Adj. #
+     Stefano Ermon ml   134 36.1
+     Leonidas J. Guibas  vision    126 25.2
+     Li Fei-Fei 0001 vision    122 25.6
+     Silvio Savarese vision,robotics    106 22.3
+     Chelsea Finn ml    96 19.9
+     Christopher D. Manning  nlp    87 26.3
+     Jiajun Wu 0001 ml,vision    85 16.5
+     Christopher Ré ml    84 18.2
+     Aaron Sidford theory    65 18.4
+     Gordon Wetzstein graphics,vision    62 14.8
+     Tengyu Ma 0001 ml    60 17.9
+     Daniel Jurafsky nlp    56 14.9
+     Dan Boneh  security,crypto    52 14.2
+     Emma Brunskill ml    51 14.5
+     Maneesh Agrawala  hci    50 13.6
+     Diyi Yang nlp    50 13.4
+     Matei Zaharia db    50 10.9
+     James Zou 0001 ml    46 13.2
+     Sean Follmer hci    43 11.1
+     Michael S. Bernstein hci    42 10.0
+     Jeannette Bohg robotics    41 9.8
+     Alexander Aiken  pl    40 9.5
+     C. Karen Liu robotics    38 9.8
+     Aviad Rubinstein theory   38 15.8
+     Dorsa Sadigh robotics    38 9.4
+     Christoforos E. Kozyrakis  arch    33 7.2
+     Gregory Valiant ml    33 10.5
+     Tatsunori B. Hashimoto ml    32 9.4
+     James A. Landay  hci    32 6.5
+     John C. Duchi ml    31 9.5
+     Zakir Durumeric security,metrics    31 5.6
+     Li-Yang Tan theory   30 9.0
+     Christopher Potts nlp    29 6.8
+     Pat Hanrahan   graphics    28 7.1
+     Kayvon Fatahalian graphics,vision    26 4.9
+     Moses Charikar  theory    24 8.4
+     Sachin Katti networks    24 6.3
+     Kunle Olukotun  arch    24 5.0
+     Clark W. Barrett logic    23 3.9
+     Nima Anari theory    19 6.1
+     William J. Dally  arch,eda    18 4.0
+     Ashish Goel ecom,web+ir    18 5.9
+     Nick McKeown  networks    18 3.3
+     Mark Horowitz  arch    17 2.8
+     David Mazières networks,os,security   17 4.2
+     Chris Piech csed,ml    17 4.5
+     Doug L. James graphics    15 5.9
+     Oussama Khatib robotics    14 4.8
+     Monica S. Lam  nlp,hci   12 2.7
+     Subhasish Mitra  eda    11 1.9
+     Omer Reingold  theory,ml    11 2.8
+     Keith Winstein networks    11 2.4
+     Mary Wootters theory    11 4.4
+     Anshul Kundaje ml,comp. bio    8 2.1
+     Balaji Prabhakar  networks   7 1.3
+     Mehran Sahami csed,ml    7 1.9
+     Serafim Batzoglou comp. bio    6 1.4
+     John Kenneth Salisbury Jr. robotics    6 1.8
+     Fredrik Kjolstad pl    6 1.5
+     John K. Ousterhout  networks,os    6 1.8
+     Jennifer Widom  db    6 2.3
+     Ron O. Dror ml,hpc    5 0.6
+     Mendel Rosenblum  networks   5 0.9
+     Dawson R. Engler security    4 1.3
+     Ronald Fedkiw graphics    4 0.9
+     John C. Mitchell  hci    4 0.7
+     Yoav Shoham  ai   4 1.1
+     Gill Bejerano    1 0.3
+     David R. Cheriton    1 0.2
+7    ▼ University of Michigan   10.1 99
+Faculty   # Pubs Adj. #
+     Kang G. Shin  security,mobile,embedded    55 18.3
+     Rada Mihalcea  nlp    40 9.9
+     Lu Wang 0008 nlp    39 13.4
+     Thatchaphol Saranurak theory    38 11.9
+     Z. Morley Mao mobile,security   36 6.5
+     Jason J. Corso vision    33 10.9
+     Stella X. Yu vision    33 9.4
+     Grant Schoenebeck ecom    32 11.9
+     Nikhil Bansal 0001 theory    31 11.8
+     Eytan Adar hci    30 9.1
+     H. V. Jagadish  db    30 7.9
+     Qiaozhu Mei web+ir    29 6.8
+     J. Alex Halderman security,metrics    28 5.9
+     Jason Mars arch    28 5.2
+     Florian Schaub hci    28 5.1
+     Lingjia Tang arch    28 5.2
+     Ambuj Tewari ml    28 10.2
+     Thomas F. Wenisch arch    27 6.6
+     Mosharaf Chowdhury networks    26 6.0
+     Scott A. Mahlke arch    26 6.7
+     Reetuparna Das arch    25 5.5
+     Odest Chadwicke Jenkins robotics    25 6.2
+     Ronald G. Dreslinski arch    24 3.5
+     David F. Fouhey vision    24 7.0
+     Justin Johnson 0001 vision   24 7.0
+     Euiwoong Lee theory    24 9.5
+     Barzan Mozafari db    24 7.1
+     Seth Pettie theory    24 9.0
+     Andrew Owens vision    23 5.7
+     David Jurgens nlp    22 8.4
+     David T. Blaauw arch    21 2.9
+     Tawanna Dillahunt hci    21 6.7
+     Satish Narayanasamy arch    21 4.9
+     Michael Nebeling hci    21 6.5
+     Westley Weimer se,arch    21 5.0
+     Mingyan Liu ml,ai,vision    20 4.9
+     Mark W. Newman  hci    19 4.9
+     Trevor N. Mudge  arch    18 2.3
+     Alanson P. Sample hci    18 3.9
+     Michael P. Wellman  ecom,ai    18 6.4
+     Dmitry Berenson robotics    17 6.8
+     Joyce Y. Chai nlp    17 4.6
+     Chris Peikert crypto    17 7.0
+     Valeria Bertacco eda    16 4.8
+     Eric Gilbert hci    16 4.9
+     Steve Oney hci    16 4.0
+     Roya Ensafi security,metrics    15 2.6
+     Peng Huang 0005 os    15 3.4
+     Danai Koutra ml,nlp,web+ir    15 4.1
+     Anhong Guo hci    14 2.5
+     Qing Qu 0001 ml    14 3.1
+     Michal Derezinski ml    12 4.4
+     Viswanath Nagarajan theory    12 3.7
+     Nikola Banovic 0001 hci    11 3.1
+     Gregory Bodwin theory    11 5.7
+     XuanLong Nguyen ml    11 3.2
+     Atul Prakash 0001 security,vision    11 2.7
+     Clayton Scott ml    11 4.8
+     Mark S. Ackerman  hci    10 2.4
+     Todd M. Austin arch,eda    10 2.5
+     Robert P. Dick ml,hci    10 1.8
+     Kevin Fu security    10 1.9
+     Xinyu Wang 0006 pl,hci    10 2.2
+     Robert D. Gregg IV robotics    9 2.2
+     Dhruv Jain hci    9 1.3
+     Manos Kapritsos os    9 1.7
+     Ceren Budak web+ir    8 3.1
+     Edmund H. Durfee ai   8 2.8
+     Benjamin Kuipers robotics    8 3.1
+     Lin Ma 0006 db   8 1.4
+     Laura Balzano ml    7 2.2
+     Kevyn Collins-Thompson web+ir    7 2.3
+     John P. Hayes  eda    7 2.5
+     Jean-Baptiste Jeannin embedded    7 1.4
+     Hun-Seok Kim vision,arch,mobile    7 1.2
+     Maggie Makar ml,ai    7 2.0
+     Yatin A. Manerkar arch    7 1.6
+     Igor L. Markov eda    7 2.3
+     Jenna Wiens ai,ml   7 2.3
+     John E. Laird  ai    6 3.0
+     Mahdi Cheraghchi theory    5 2.6
+     Daniel M. Romero web+ir    5 1.5
+     Georgios Tzimpragos arch    5 0.8
+     Mark Guzdial  csed    4 1.2
+     Emily Mower Provost ai    4 1.3
+     Xu Wang 0016 hci    4 1.1
+     Alfred O. Hero III ml   3 1.3
+     Max S. New pl    3 0.8
+     Cyrus Omar pl    3 0.6
+     Karem A. Sakallah      3 1.0
+     Benjamin Fish     2 0.7
+     Brian D. Noble     2 0.5
+     Zeeshan Syed ai    2 0.5
+     Jeffrey A. Fessler     1 0.2
+     Sugih Jamin    1 0.3
+     Vineet R. Kamat     1 0.3
+     David E. Kieras     1 0.5
+     Stéphane Lafortune     1 0.3
+     Marios C. Papaefthymiou    1 0.1
+8    ▼ University of Washington   10.0 80
+Faculty   # Pubs Adj. #
+     Yejin Choi 0001 nlp    121 23.8
+     Luke Zettlemoyer nlp    119 27.9
+     Noah A. Smith nlp    118 29.7
+     Hannaneh Hajishirzi nlp    78 17.0
+     Simon S. Du ml    64 15.9
+     Yin Tat Lee theory    62 17.5
+     Byron Boots robotics    59 14.7
+     Shwetak N. Patel  hci    55 10.1
+     Sewoong Oh ml    50 14.5
+     Arvind Krishnamurthy  networks    49 8.6
+     Jennifer Mankoff hci    49 9.6
+     Yulia Tsvetkov nlp    39 10.3
+     Jeff A. Bilmes ml    38 11.2
+     Shyamnath Gollakota networks,mobile,hci   38 9.9
+     Steven M. Seitz  vision    37 9.5
+     Anind K. Dey hci    36 7.0
+     Ludwig Schmidt ml    36 7.7
+     Stefano Tessaro crypto    35 12.9
+     Jeffrey Heer hci,visualization    34 10.3
+     Jon Froehlich hci    31 6.2
+     Tadayoshi Kohno security,hci    31 7.7
+     Franziska Roesner security    31 7.8
+     Jacob O. Wobbrock hci    31 9.9
+     Leah Findlater hci    30 6.7
+     Huijia Lin crypto    30 11.1
+     Maya Cakmak robotics    29 8.1
+     Ratul Mahajan networks    29 5.7
+     Alexis Hiniker hci    28 6.0
+     Baris Kasikci arch,os    28 5.1
+     Katharina Reinecke hci    28 7.4
+     Dan Suciu  db    28 8.7
+     Kevin G. Jamieson ml    26 7.9
+     Julie A. Kientz hci    26 5.4
+     Luis Ceze arch    25 5.0
+     Jamie Morgenstern ml,ecom    25 6.4
+     Michael D. Ernst  se    24 5.9
+     Amy J. Ko hci,csed    24 6.3
+     Joshua R. Smith 0001 robotics,networks,hci    24 5.8
+     James Fogarty hci    23 5.4
+     Ira Kemelmacher-Shlizerman vision    23 7.5
+     Brian Curless vision    21 4.8
+     Shayan Oveis Gharan theory    21 7.0
+     Thomas E. Anderson  networks    18 3.0
+     Simon Peter 0001 os,networks    18 3.2
+     Emanuel Todorov robotics    18 6.6
+     Zachary Tatlock pl    17 3.6
+     Tim Althoff web+ir    16 3.9
+     Leilani Battle hci,visualization    16 3.8
+     Vikram Iyer mobile,hci    16 3.9
+     Zoran Popovic hci,ai    16 3.8
+     Magdalena Balazinska  db    15 4.0
+     Gary Hsieh hci    15 4.1
+     Pang Wei Koh ml    15 3.3
+     Ranjay Krishna vision    15 3.2
+     Amy X. Zhang hci    14 4.6
+     Anna R. Karlin  theory,ecom    13 4.1
+     Adriana Schulz graphics    13 2.3
+     Dan Grossman pl    12 3.2
+     Thomas Rothvoß theory    12 6.4
+     Richard J. Anderson hci    10 2.6
+     René Just se,hci    10 1.9
+     Linda G. Shapiro vision    10 2.9
+     Michael B. Taylor arch   10 3.3
+     James R. Lee theory    9 4.2
+     Su-In Lee ml    9 3.0
+     Rajesh P. N. Rao robotics    9 2.6
+     David Kohlbrenner security    8 2.1
+     Tanushree Mitra hci    8 2.7
+     Sheng Wang 0012 nlp,comp. bio    8 1.9
+     Aylin Caliskan nlp,security    7 2.7
+     Paul Beame  theory    5 2.1
+     Mark Oskin arch    5 0.7
+     Cecilia R. Aragon hci    3 0.6
+     Abhishek Gupta hci    3 0.5
+     Georg Seelig arch    3 0.6
+     Alan Borning  hci   2 0.6
+     Edward D. Lazowska      1 0.2
+     Jamie H. Morgenstern     1 0.2
+     Sara Mostafavi     1 0.2
+     Anup Rao 0001     1 0.3
+9    ▼ Univ. of California - Berkeley   9.6 90
+Faculty   # Pubs Adj. #
+     Sergey Levine ml    248 56.3
+     Pieter Abbeel ml,robotics    195 43.7
+     Trevor Darrell vision    161 33.5
+     Michael I. Jordan  ml    116 29.3
+     Jitendra Malik  vision    105 25.5
+     Ion Stoica  networks    90 16.5
+     Kenneth Y. Goldberg robotics    75 11.7
+     Alexei A. Efros vision    74 17.9
+     Anca D. Dragan robotics,ml    59 15.3
+     Kurt Keutzer ml,vision,ai    55 8.6
+     Sanjam Garg crypto    43 12.4
+     Venkatesan Guruswami  theory    42 16.5
+     Stuart Russell 0001 ml    40 10.2
+     Sanjit A. Seshia logic    39 9.5
+     Ronald S. Fearing robotics    38 12.6
+     Vern Paxson  security    38 7.3
+     Peter L. Bartlett  ml    37 10.7
+     Claire J. Tomlin robotics   37 10.2
+     Scott Shenker  networks    36 6.2
+     Björn Hartmann hci    35 7.7
+     Angjoo Kanazawa vision    35 7.8
+     Jacob Steinhardt ml    35 10.0
+     Yi Ma 0001 vision,ml    33 7.4
+     Alvin Cheung db   31 7.6
+     Aditya G. Parameswaran db    31 7.5
+     Raluca A. Popa security    30 6.7
+     Koushik Sen se    28 6.5
+     Benjamin Recht ml    27 6.4
+     Sylvia Ratnasamy networks    26 5.1
+     Eric Paulos hci    23 7.1
+     Martin J. Wainwright ml    23 7.5
+     Joseph M. Hellerstein  db    22 4.9
+     John F. Canny vision,ml,hci    21 5.2
+     Prabal Dutta mobile    21 5.3
+     David A. Wagner 0001 security    21 4.9
+     Nika Haghtalab ml    20 5.8
+     Jelani Nelson theory    20 6.8
+     Ren Ng vision    20 4.1
+     Alberto L. Sangiovanni-Vincentelli  eda    20 4.6
+     Marti A. Hearst  nlp,hci    18 6.0
+     Kannan Ramchandran ml    18 4.3
+     S. Shankar Sastry robotics    18 5.2
+     Prasad Raghavendra theory    17 5.2
+     Avishay Tal theory    17 7.4
+     David Bamman nlp    15 5.4
+     Alistair Sinclair  theory   15 5.6
+     Shafi Goldwasser   crypto,theory   12 2.8
+     Jiantao Jiao ml    12 2.5
+     Alexandre M. Bayen ml    11 2.6
+     Natacha Crooks db,networks,os    11 1.7
+     Edward A. Lee embedded    11 2.9
+     Yakun Sophia Shao arch,eda    11 1.2
+     Borivoje Nikolic arch,eda    10 1.1
+     Katherine A. Yelick  hpc    10 2.3
+     Costas J. Spanos ai    9 2.1
+     Sarah E. Chasins hci   8 2.4
+     Jennifer T. Chayes theory,ml    8 2.1
+     James Demmel  hpc,ml   8 1.3
+     James F. O'Brien graphics    8 1.8
+     Niloufar Salehi hci    8 1.7
+     Somayeh Sojoudi ml,ai    8 1.9
+     John Wright 0004 theory   8 3.1
+     Bin Yu 0001 ml    7 1.7
+     John Kubiatowicz arch    5 1.0
+     Satish Rao  theory    5 1.5
+     Yun S. Song comp. bio,ml   5 1.2
+     Umesh V. Vazirani  theory   5 1.2
+     Armando Fox csed   4 1.1
+     Laurent El Ghaoui ml    4 0.7
+     Anthony D. Joseph ml,db    4 0.7
+     Randy H. Katz  arch    4 0.5
+     Jennifer Listgarten ml    4 1.5
+     George C. Necula se    4 0.9
+     Jaijeet S. Roychowdhury eda   4 1.8
+     John Wawrzynek eda   4 0.9
+     Elad Alon eda    3 0.3
+     Murat Arcak logic    3 0.8
+     Robert J. Full robotics    3 0.6
+     Kristofer S. J. Pister robotics   3 0.5
+     Jan M. Rabaey     3 0.6
+     Avideh Zakhor robotics    3 0.8
+     Eric A. Brewer  networks    2 0.4
+     Anant Sahai     2 0.5
+     Sayeef S. Salahuddin eda    2 0.2
+     Bernd Sturmfels vision    2 0.5
+     Vivek Subramanian nlp    2 0.3
+     Laura Waller     2 0.5
+     Nir Yosef ml    2 0.5
+     Brian A. Barsky    1 0.3
+     Vladimir Stojanovic     1 0.3
+10    ▼ Cornell University   9.5 83
+Faculty   # Pubs Adj. #
+     Thomas Ristenpart [Tech] security    62 14.1
+     Noah Snavely [Tech] vision    62 16.2
+     Kilian Q. Weinberger ml    61 12.6
+     Alexander M. Rush [Tech] nlp    56 16.7
+     Bharath Hariharan vision    49 12.3
+     Claire Cardie  nlp    48 16.8
+     Carla P. Gomes  ai    47 11.3
+     Daniel D. Lee [Tech] robotics   47 14.8
+     Jon M. Kleinberg  web+ir,ecom    44 14.4
+     Christopher De Sa ml    43 12.7
+     Zhiru Zhang eda    40 9.9
+     Rafael Pass [Tech] crypto,theory   38 13.0
+     Justin Hsu pl    33 8.0
+     Ari Juels [Tech] security    31 7.0
+     G. Edward Suh arch   31 8.1
+     Robert D. Kleinberg theory,ecom,ml    30 9.4
+     Yoav Artzi [Tech] nlp    29 7.4
+     Nathan Kallus [Tech] ml    29 14.5
+     Hadas Kress-Gazit robotics    29 10.1
+     Kavita Bala  vision,graphics    28 7.3
+     François Guimbretière hci    27 5.4
+     Nicola Dell [Tech] hci    26 5.2
+     Steve Marschner  graphics    26 5.1
+     Wen Sun 0002 ml    25 6.4
+     Thorsten Joachims  ml,web+ir    24 7.4
+     Vitaly Shmatikov [Tech] security   24 7.6
+     Immanuel Trummer db    24 11.9
+     Rachit Agarwal 0001 networks    23 5.7
+     Andrew C. Myers pl    22 6.6
+     Jayadev Acharya ml    21 6.1
+     Cristian Danescu-Niculescu-Mizil nlp    21 6.7
+     Nate Foster pl,networks    21 3.5
+     Austin R. Benson ml,web+ir    20 6.7
+     Noah Stephens-Davidowitz theory,crypto    20 7.2
+     Siddhartha Banerjee metrics,ecom    19 6.0
+     Bart Selman  ai,ml    19 4.8
+     Tanzeem Choudhury [Tech]  hci   18 3.0
+     Fei Wang 0001 ai    18 3.4
+     Volodymyr Kuleshov [Tech] ml   17 6.0
+     Lillian Lee  nlp    17 6.6
+     Mor Naaman [Tech] hci    17 4.3
+     Karthik Sridharan ml    17 4.9
+     Tapomayukh Bhattacharjee robotics    16 3.9
+     Sainyam Galhotra db    16 4.3
+     Joseph Y. Halpern  ai    16 7.3
+     Madeleine Udell ml    16 5.2
+     Shiri Azenkot [Tech] hci    15 3.9
+     David M. Mimno nlp    15 5.2
+     Éva Tardos  ecom    15 5.6
+     Lorenzo Alvisi  networks,os    14 2.5
+     Christopher Batten arch    14 3.4
+     Eshan Chattopadhyay theory   14 5.2
+     David Bindel ml    13 3.4
+     John E. Hopcroft   ml   13 2.8
+     Malte F. Jung hci    12 2.7
+     Dexter Kozen  pl,logic    12 3.5
+     Ramin Zabih [Tech]  vision    12 2.8
+     Erik Andersen 0001 hci    11 2.8
+     Abe Davis graphics,vision    11 2.9
+     Adrian Sampson arch,pl    11 2.5
+     Arpita Ghosh ecom,web+ir    10 4.3
+     Marten van Schijndel nlp    9 4.1
+     Phoebe Sengers hci    9 2.7
+     Rajalakshmi Nandakumar [Tech] mobile,hci    8 2.1
+     Alexandra Silva 0001 pl,logic    8 1.7
+     Hakim Weatherspoon networks    8 1.9
+     Owolabi Legunsen se    7 1.4
+     Robbert van Renesse networks,security    7 1.2
+     Guy Hoffman robotics,hci    5 1.7
+     José F. Martínez arch    5 1.6
+     Cheng Zhang 0011 hci   5 0.6
+     Anil Damle ml    4 1.3
+     Deborah Estrin [Tech]  web+ir    4 0.6
+     J. Gregory Morrisett [Tech]  pl    4 0.9
+     David H. Albonesi arch   3 0.6
+     Robert L. Constable  logic   2 0.6
+     Giulia Guidi hpc    2 0.3
+     David B. Shmoys     2 0.7
+     Erik Andersen     1 0.2
+     Kenneth P. Birman      1 0.2
+     Donald P. Greenberg     1 0.2
+     Helen Nissenbaum [Tech]    1 0.1
+     David P. Williamson      1 0.5
+11   ▼ University of Maryland - College Park   8.5 86
+Faculty   # Pubs Adj. #
+     Heng Huang ai    144 41.3
+     Dinesh Manocha  robotics    116 29.9
+     Tom Goldstein ml    79 15.7
+     Jordan L. Boyd-Graber nlp    63 17.9
+     Hal Daumé III nlp    53 14.7
+     John P. Dickerson ai,ml    51 12.4
+     Abhinav Shrivastava vision    48 12.5
+     Mohammad Hajiaghayi theory    47 11.4
+     Soheil Feizi ml    46 15.6
+     Michelle L. Mazurek security    41 8.0
+     Jonathan Katz  security,crypto    38 9.1
+     Ming C. Lin  robotics,graphics    37 11.0
+     Niklas Elmqvist visualization,hci    36 8.0
+     Tianyi Zhou 0001 ml    35 7.7
+     Dave Levin security,metrics    30 5.5
+     Matthias Zwicker vision,graphics,ai    30 7.1
+     Yiannis Aloimonos robotics    29 6.9
+     Furong Huang  ml    27 6.2
+     David Jacobs 0001 vision    27 6.5
+     Pratap Tokekar robotics    26 8.2
+     Philip Resnik nlp    23 6.3
+     Aravind Srinivasan  theory,ai    22 6.6
+     Marine Carpuat nlp    21 8.2
+     Zhicheng Liu hci,visualization    21 5.4
+     Abhinav Bhatele hpc    20 3.6
+     Tudor Dumitras security,ml    19 4.7
+     Rachel Rudinger nlp    19 5.3
+     Eun Kyoung Choe hci    17 4.0
+     Dana Dachman-Soled crypto    17 4.4
+     Amanda Lazar hci    17 5.1
+     Ian Miers security    17 4.5
+     Laxman Dhulipala db    16 3.6
+     Yonghwi Kwon 0001 security,se    16 2.8
+     Daniel J. Abadi  db    15 4.9
+     Huaishu Peng hci    15 3.5
+     Xiaodi Wu pl,ml    14 3.7
+     Bobby Bhattacharjee mobile   13 2.6
+     Rob Patro comp. bio    13 4.0
+     Gang Qu 0001 eda    13 4.6
+     Nirupam Roy mobile    12 4.3
+     Neil Spring metrics    12 3.1
+     Hernisa Kacorri hci    10 2.9
+     David Weintrop csed    10 2.3
+     Douglas W. Oard nlp,web+ir    9 2.2
+     Carlos Domingo Castillo vision    8 1.8
+     Michael W. Otte robotics    8 2.1
+     Amitabh Varshney visualization,vision    8 2.2
+     Gorjan Alagic crypto   7 2.4
+     Amol Deshpande db    7 2.5
+     David Van Horn pl    7 2.0
+     Pablo Paredes hci    7 1.5
+     David M. Mount theory    6 1.9
+     Catherine Plaisant visualization,hci    6 1.2
+     Héctor Corrada Bravo ml,comp. bio    5 1.2
+     Andrew M. Childs theory    5 1.2
+     Ben Shneiderman  hci,visualization    5 1.4
+     Naomi Feldman nlp    4 1.2
+     Leonidas Lampropoulos pl    4 1.0
+     Jonathan Lazar hci    4 0.7
+     Christopher A. Metzler vision,ml    4 1.1
+     Erin K. Molloy comp. bio    4 1.6
+     Dana S. Nau  ai    4 1.0
+     Hanan Samet  db    4 1.1
+     John S. Baras robotics    3 0.8
+     Jennifer Golbeck hci    3 0.7
+     Bahar Asgari     2 0.4
+     Rajeev Barua     2 0.5
+     Vanessa Frías-Martínez     2 0.6
+     Jeffrey K. Hollingsworth hpc    2 0.8
+     Mark D. M. Leiserson comp. bio    2 0.5
+     Keith Marzullo  hci    2 0.2
+     Atif M. Memon se    2 0.5
+     Ankur Srivastava robotics    2 0.5
+     Min Wu 0001     2 0.3
+     Alexander Barg     1 0.3
+     Benjamin B. Bederson     1 0.3
+     Rance Cleaveland     1 0.5
+     Ramani Duraiswami     1 0.1
+     John Grant     1 0.3
+     Donald Perlis     1 0.2
+     Adam A. Porter     1 0.2
+     James M. Purtilo    1 0.3
+     Eytan Ruppin     1 0.3
+     Alan Sussman     1 0.1
+     Uzi Vishkin      1 0.1
+     Donald Yeung     1 0.3
+12   ▼ Northeastern University   7.7 80
+Faculty   # Pubs Adj. #
+     Yun Fu 0001 ai,vision    102 26.6
+     Yanzhi Wang eda    82 12.3
+     Daniel Wichs crypto    45 12.9
+     Xue Lin ai,eda    44 6.8
+     Gregory D. Abowd  hci    38 5.5
+     Huy L. Nguyen theory,ml    37 13.7
+     Alan Mislove metrics    35 6.9
+     David R. Choffnes metrics    33 5.4
+     Christo Wilson metrics    32 6.6
+     Byron C. Wallace nlp    31 8.1
+     Jonathan R. Ullman ml,theory    30 9.3
+     Christopher Amato robotics,ai    27 7.3
+     Devesh Tiwari hpc   27 7.3
+     Soheil Behnezhad theory    24 8.1
+     Dakuo Wang hci,nlp    23 3.3
+     Ehsan Elhamifar vision    22 11.1
+     Abhi Shelat security    22 6.2
+     Enrico Bertini visualization,hci    19 4.5
+     Engin Kirda security    18 3.8
+     David Bau vision,ml    17 3.7
+     Taskin Padir robotics    17 5.1
+     Wolfgang Gatterbauer db    16 5.0
+     Robert Platt Jr. robotics    16 4.5
+     David R. Kaeli  eda    16 3.3
+     Long Lu security   16 3.5
+     Renée J. Miller  db    16 4.6
+     Lawson L. S. Wong robotics,ml    16 4.4
+     Cristina Nita-Rotaru security    15 2.7
+     William K. Robertson security    15 3.2
+     Mahsa Derakhshan theory,ecom    14 4.0
+     Jennifer G. Dy ml    14 3.0
+     Cody Dunne hci,visualization    13 2.7
+     Stratis Ioannidis ml,security,metrics    13 2.9
+     Michelle Borkin visualization,hci    12 2.3
+     Mirek Riedewald db    12 3.3
+     Huaizu Jiang vision    11 1.9
+     Jonathan Bell 0001 se    10 2.5
+     Arjun Guha pl,ai,csed    10 2.5
+     Emanuele Viola theory    10 4.4
+     Elizabeth D. Mynatt  hci    9 2.4
+     Predrag Radivojac ai,comp. bio    9 2.6
+     Alexandra To hci    9 1.8
+     Amal Ahmed 0001 pl    8 2.3
+     Timothy W. Bickmore hci    8 2.3
+     Paul Hand ml    8 2.5
+     David Lazer  nlp,web+ir,metrics    8 1.8
+     Guevara Noubir security    8 2.0
+     Alina Oprea security    8 1.6
+     Aanjhan Ranganathan security,mobile    8 2.0
+     Frank Tip se    8 1.7
+     Stavros Tripakis embedded,logic    8 2.3
+     Jan Vitek pl    8 1.5
+     Hongyang R. Zhang ml    8 2.4
+     Olga Vitek comp. bio    7 1.4
+     Javed A. Aslam ml,nlp    6 2.0
+     Varun Mishra 0001 hci    6 0.9
+     Lace M. K. Padilla visualization    6 1.4
+     Herman Saksono hci    6 1.3
+     Saiph Savage web+ir,hci    6 1.1
+     Panagiotis Manolios logic    5 2.2
+     Rajmohan Rajaraman theory    5 1.2
+     Carla E. Brodley      4 0.8
+     Steven Holtzen     4 0.9
+     Stacy Marsella hci    4 0.5
+     Hanumant Singh robotics    4 0.8
+     Ravi Sundaram     4 0.9
+     Seth Cooper hci    3 1.5
+     Gene Cooperman hpc    3 1.1
+     Matthias Felleisen  pl    3 0.9
+     Matthew S. Goodwin hci    3 1.0
+     Stephen S. Intille hci    3 0.5
+     David A. Smith nlp    3 1.3
+     Albert-László Barabási     2 0.6
+     Tina Eliassi-Rad web+ir    2 0.5
+     Seyede Fatemeh Ghoreishi     2 0.6
+     Kathleen Creel     1 0.2
+     Misha Pavel     1 0.1
+     Christoph Riedl     1 0.3
+     Ji-Yong Shin     1 0.3
+     Alessandro Vespignani     1 0.2
+13   ▼ University of Wisconsin - Madison   7.3 72
+Faculty   # Pubs Adj. #
+     Ilias Diakonikolas ml,theory    69 18.7
+     Vikas Singh vision    62 14.0
+     Somesh Jha  ml,security    53 11.8
+     Loris D'Antoni logic,pl    40 13.1
+     Yong Jae Lee vision    39 11.4
+     Bilge Mutlu hci,robotics    38 11.1
+     Aws Albarghouthi pl    31 9.4
+     Yin Li 0003 vision    31 7.7
+     Xiaojin Zhu 0001 ml,ai    31 10.0
+     Thomas W. Reps  pl    30 8.1
+     Yingyu Liang ml    27 7.8
+     Mohit Gupta 0001 vision    26 8.1
+     Robert D. Nowak ml    26 8.0
+     Xiangyao Yu db    26 5.6
+     Jignesh M. Patel  db    25 7.3
+     Michael Gleicher robotics,visualization    24 8.2
+     Dimitris S. Papailiopoulos ml    23 5.5
+     Yixuan Li 0001 ml    20 4.8
+     Yea-Seul Kim hci,visualization    19 5.0
+     Rahul Chatterjee 0001 security    18 3.3
+     Yudong Chen 0001 ml    18 5.3
+     Junjie Hu 0001 nlp    18 4.1
+     Michael M. Swift arch    18 4.7
+     Suman Banerjee 0001 mobile    17 5.7
+     Shivaram Venkataraman networks,os    17 3.1
+     Andrea C. Arpaci-Dusseau os    16 2.9
+     Kassem Fawaz security    16 4.4
+     Paul Barford  metrics    15 4.2
+     Paraschos Koutris db    15 4.1
+     Kangwook Lee 0001 ml    15 3.8
+     Patrick D. McDaniel security    15 2.5
+     Eftychios Sifakis graphics    15 3.0
+     Remzi H. Arpaci-Dusseau os    14 2.7
+     Kirthevasan Kandasamy ml    14 3.7
+     Joshua San Miguel arch    14 4.0
+     Yuhang Zhao 0001 hci    14 3.1
+     Jin-Yi Cai  theory    13 5.2
+     AnHai Doan db    13 2.4
+     Josiah Hanna ml,robotics    13 3.1
+     Rishab Goyal crypto    12 3.9
+     Pedro Morgado 0001 vision    12 4.3
+     Frederic Sala ml    12 2.3
+     Swamit S. Tannu arch    12 4.0
+     Ming Liu 0027 networks,os    11 1.9
+     Stephen J. Wright 0001 ml    11 3.5
+     Tej Chajed os    10 2.0
+     Younghyun Kim 0001 eda    10 2.5
+     David Page ml    10 3.0
+     Karthikeyan Sankaralingam arch    10 2.8
+     Jelena Diakonikolas ml   8 2.4
+     Laurent Lessard ml,visualization    8 2.4
+     Ethan Cecchetti security    7 1.9
+     Kyle Cranmer ml    7 1.4
+     Matthew D. Sinclair arch    7 1.6
+     Ramya Korlakai Vinayak ml    6 1.9
+     Bhuvana Krishnaswamy networks,mobile    5 1.4
+     Mikko H. Lipasti arch    5 1.8
+     Parameswaran Ramanathan     5 1.3
+     Gurindar S. Sohi  arch,pl   5 1.7
+     Po-Ling Loh ml   4 1.5
+     Garvesh Raskutti ml   4 1.5
+     Mark Craven ai    3 1.1
+     Barton P. Miller  hpc    3 1.3
+     Alberto Del Pia theory    3 1.3
+     Kevin Ponto visualization    3 1.1
+     Grace Wahba ml    2 0.3
+     Matthew Berland     1 0.3
+     Michael C. Ferris     1 0.3
+     Anthony Gitter     1 0.5
+     Dieter van Melkebeek    1 0.3
+     Dan Negrut     1 0.2
+     Martina A. Rau     1 0.3
+14   ▼ Columbia University   7.1 57
+Faculty   # Pubs Adj. #
+     Shih-Fu Chang  vision    79 16.5
+     Zhou Yu nlp    60 13.7
+     Elias Bareinboim ml,ai    56 20.8
+     Richard S. Zemel ml    56 14.7
+     David M. Blei  ml    43 13.9
+     Carl Vondrick vision    43 11.0
+     Suman Jana security    39 8.2
+     Changxi Zheng graphics    38 10.2
+     Shuran Song vision,robotics    37 8.8
+     Rocco A. Servedio theory    35 10.9
+     Kathy McKeown  nlp    33 10.6
+     Toniann Pitassi  theory,ml   31 8.4
+     Timothy Roughgarden ecom,theory    31 12.6
+     Xi Chen 0001 theory    30 8.8
+     Daniel Hsu 0001 ml    29 8.2
+     Junfeng Yang os    27 5.7
+     Ethan Katz-Bassett metrics,networks    26 3.9
+     Xia Zhou mobile,hci    25 4.8
+     Alexandr Andoni theory    24 7.0
+     Peter K. Allen robotics    23 5.7
+     Eugene Wu 0002 db    23 6.1
+     Baishakhi Ray se    22 4.6
+     Ronghui Gu os,pl    20 3.7
+     Jason Nieh  os,arch    20 6.0
+     Michael Collins 0001 nlp    18 5.4
+     Christos H. Papadimitriou  ecom,theory    18 5.0
+     Lydia B. Chilton hci    17 4.4
+     Luca P. Carloni eda    16 5.1
+     Tony Jebara ml    16 4.3
+     Simha Sethumadhavan arch,security   16 3.9
+     Clifford Stein 0001 theory    16 4.7
+     Shree K. Nayar vision,hci    15 4.7
+     Tal Malkin crypto    14 3.0
+     Josh Alman theory    13 6.1
+     Mihalis Yannakakis  theory    13 3.5
+     Kenneth A. Ross db,arch    11 2.9
+     Henry Yuen theory   11 3.7
+     Augustin Chaintreau metrics,web+ir    10 2.3
+     Asaf Cidon networks,security,os    10 1.8
+     Steven K. Feiner  hci    10 2.7
+     Allison Bishop crypto,theory   7 2.3
+     Roxana Geambasu security,os   7 1.2
+     Gail E. Kaiser se    7 2.0
+     Gil Zussman metrics,mobile    7 1.5
+     Peter N. Belhumeur vision    6 2.3
+     Steven M. Bellovin security    6 1.6
+     Martha A. Kim arch    6 1.2
+     Itsik Pe'er comp. bio    4 1.5
+     Salvatore J. Stolfo  security    4 1.0
+     Luis Gravano db    3 1.2
+     Vishal Misra  web+ir    3 0.9
+     Stephen A. Edwards     2 0.4
+     Julia Hirschberg  nlp    2 0.7
+     Steven M. Nowick eda    2 0.8
+     Rebecca N. Wright     2 0.5
+     Yaniv Erlich     1 0.1
+     Ansaf Salleb-Aouissi     1 0.3
+15   ▼ Purdue University   7.0 74
+Faculty   # Pubs Adj. #
+     Xiangyu Zhang 0001 se,security    81 15.2
+     Xuehai Qian arch    39 7.8
+     Dongyan Xu security    34 6.2
+     Aniket Bera robotics    27 6.3
+     Chunyi Peng 0001 mobile    26 4.5
+     Ninghui Li  security,db    25 5.7
+     Dan Goldwasser nlp    24 8.7
+     Changhee Jung arch    24 6.5
+     Milind Kulkarni 0001 hpc    23 6.7
+     Bruno Ribeiro 0001 ml    22 7.5
+     Yexiang Xue ai   22 4.7
+     Jianzhu Ma ml    21 4.6
+     Christos-Alexandros Psomas ml,ecom    21 6.2
+     Jean Honorio ml    20 9.0
+     Bedrich Benes graphics    19 3.7
+     Jing (Dave) Tian security    19 3.3
+     Tianyi Zhang 0001 se,hci    18 4.3
+     Vassilis Zikas crypto    18 4.7
+     Saurabh Bagchi security,hpc    17 3.2
+     Hemanta K. Maji crypto    16 4.4
+     Jeremiah Blocki crypto,security    15 4.6
+     Y. Charlie Hu mobile,metrics    15 3.8
+     Antonio Bianchi security    14 2.5
+     Kent Quanrud theory    14 6.5
+     Lin Tan 0001 se    14 3.1
+     Raymond A. Yeh vision,ml    14 3.5
+     Elisa Bertino  security,ai,web+ir    13 2.7
+     Simina Brânzei ai    13 4.2
+     David F. Gleich web+ir,ml    13 4.3
+     Jennifer Neville ai,web+ir    13 4.1
+     Ming Yin 0001 hci,web+ir    13 4.4
+     Suresh Jagannathan pl    12 3.7
+     Aniket Kate security    12 2.7
+     Tiark Rompf pl,db    12 3.8
+     Paul Valiant theory    10 4.0
+     Z. Berkay Celik security    9 1.7
+     Pedro Fonseca 0001 arch,os,security    9 2.2
+     Ananth Grama ai,web+ir    9 2.8
+     Steve Hanneke ml    9 2.9
+     Rajiv Khanna ml    9 2.1
+     Sanjay G. Rao metrics,networks    9 1.7
+     Muhammad Shahbaz 0001 arch,networks    9 1.5
+     T. N. Vijaykumar arch    9 2.7
+     Petros Drineas ml,theory    8 2.0
+     Christina Garman security    8 1.8
+     Vinayak A. Rao ml    8 2.0
+     Jeffrey Mark Siskind vision,ai    8 3.1
+     Mohammadkazem Taram arch    8 1.8
+     He Wang 0008 mobile,hci    8 2.5
+     Jianguo Wang 0001 db   8 1.4
+     Ruqi Zhang ml    8 2.8
+     Walid G. Aref db    7 1.4
+     Brian Bullins ml    7 1.5
+     Tamal K. Dey  theory,graphics    7 3.0
+     Voicu Popescu visualization   7 1.8
+     Ahmed Hussain Qureshi robotics    7 1.9
+     Yongle Zhang os    7 1.4
+     Roopsha Samanta pl,logic    6 1.4
+     Benjamin Delaware pl    5 1.5
+     Ahmed K. Elmagarmid  db    5 0.8
+     Elena Grigorescu theory,ml    5 1.1
+     Wojciech Szpankowski ml   5 1.4
+     Daniel G. Aliaga vision,graphics    4 1.2
+     Daisuke Kihara comp. bio    4 1.1
+     Saugata Basu theory    3 0.9
+     Sonia Fahmy    3 0.6
+     Zhiyuan Li 0001     2 0.7
+     Yung-Hsiang Lu     2 0.2
+     Kihong Park     2 0.6
+     Alex Pothen hpc    2 0.3
+     Sunil Prabhakar db    2 0.6
+     Xavier Tricoche visualization    2 0.8
+     Anuran Makur    1 0.3
+     Robert D. Skeel    1 0.2
+15   ▼ University of Texas at Austin   7.0 49
+Faculty   # Pubs Adj. #
+     Zhangyang Wang ml    153 29.2
+     Peter Stone  ai,robotics    76 19.4
+     David Z. Pan  eda    65 13.9
+     Qiang Liu 0001 ml    64 18.4
+     Qixing Huang vision    56 12.8
+     Alexandros G. Dimakis ml    51 13.4
+     Greg Durrett nlp    51 18.0
+     Yuke Zhu robotics,vision    50 9.9
+     Aditya Akella networks    46 10.0
+     Isil Dillig pl    43 11.2
+     Brent Waters  crypto    41 14.3
+     Constantine Caramanis ml    35 10.3
+     Raymond J. Mooney  nlp,ai    35 11.0
+     Swarat Chaudhuri ml,pl    34 8.7
+     Philipp Krähenbühl vision    33 11.3
+     Eric Price 0001 theory,ml    31 10.4
+     Joydeep Biswas robotics    23 7.7
+     Eunsol Choi nlp    23 6.1
+     Lili Qiu  mobile    22 5.0
+     David J. Wu 0001 crypto    18 6.4
+     Shuchi Chawla 0001 theory,ecom    16 4.4
+     Adam R. Klivans ml    16 5.0
+     Vijay Chidambaram os,db    15 3.0
+     Amy Pavel hci    15 3.4
+     Christopher J. Rossbach arch    15 2.6
+     Kevin Tian ml,theory    15 4.1
+     Calvin Lin arch    14 4.8
+     Hovav Shacham security    14 3.2
+     Emmett Witchel os,arch    14 3.1
+     Katrin Erk nlp    13 4.8
+     Daehyeok Kim networks    12 2.3
+     Etienne Vouga graphics,vision    12 2.6
+     James Bornholt os,arch    11 2.4
+     Kenneth L. McMillan logic,pl    11 4.8
+     Daniel Moghimi security    11 1.7
+     Scott Aaronson  theory    10 4.0
+     David Zuckerman  theory    10 3.3
+     Risto Miikkulainen ai,ml    9 3.3
+     Chandrajit L. Bajaj  vision,ml    8 1.7
+     Alexander G. Huth ml    8 2.4
+     Aloysius K. Mok embedded    7 1.4
+     Dana Moshkovitz theory    6 2.8
+     Don S. Batory se    4 0.8
+     Donald S. Fussell arch   4 1.2
+     Robert A. van de Geijn hpc    2 0.6
+     Vladimir Lifschitz ai    2 0.8
+     Yin Zhang 0001     2 0.5
+     C. Greg Plaxton    1 0.5
+     Vijaya Ramachandran     1 0.5
+17   ▼ University of Pennsylvania   6.8 73
+Faculty   # Pubs Adj. #
+     Dan Roth  nlp    104 32.0
+     Vijay Kumar 0001 robotics    97 24.3
+     Kostas Daniilidis robotics,vision    78 21.9
+     Aaron Roth 0001 ml,theory    53 13.5
+     Mark Yim robotics    42 14.3
+     Osbert Bastani ml    41 10.5
+     Chris Callison-Burch nlp    40 9.7
+     Chenfanfu Jiang graphics    40 7.4
+     George J. Pappas robotics    40 9.8
+     Seyed Hamed Hassani ml   36 9.1
+     Sanjeev Khanna  theory    36 11.1
+     Insup Lee 0001 embedded    31 6.5
+     Mayur Naik pl,ml    28 6.2
+     Jianbo Shi vision    28 7.3
+     Lyle H. Ungar nlp    28 6.7
+     Rajeev Alur  logic,pl    26 6.9
+     Dinesh Jayaraman ml,vision    26 7.5
+     Michael Kearns  ml    24 5.7
+     Lingjie Liu vision    24 4.3
+     Anindya De theory    23 8.5
+     Daniel E. Koditschek robotics   23 8.7
+     M. Ani Hsieh robotics    21 6.2
+     Linh T. X. Phan embedded    21 5.5
+     Ruzena Bajcsy  robotics   20 6.1
+     Vincent Liu 0001 networks    20 4.5
+     Camillo J. Taylor robotics    20 5.8
+     Shivani Agarwal 0001 ml    19 6.7
+     Mark Yatskar nlp    19 4.8
+     Sebastian Angel security,os    18 4.5
+     Joseph Devietti arch   18 3.7
+     Jacob R. Gardner ml    18 3.7
+     Boon Thau Loo db,networks    18 3.2
+     Surbhi Goel ml    17 4.5
+     Ani Nenkova nlp    17 5.5
+     Weijie J. Su ml    17 5.5
+     Pratik Chaudhari ml    16 5.1
+     Yuxin Chen 0002 ml    16 4.7
+     Ryan Marcus db    15 2.9
+     Erik Waingarten theory    15 4.1
+     Andreas Haeberlen os,networks,embedded    13 2.8
+     Andrew Head hci    13 2.6
+     Steve Zdancewic pl    13 3.6
+     Eric Wong 0001 ml    12 4.1
+     Benjamin C. Pierce  pl,security    11 2.0
+     Cynthia R. Sung robotics   11 2.8
+     Gushu Li arch    10 2.3
+     Mingmin Zhao vision,mobile    10 1.8
+     Jing Jane Li arch    9 4.2
+     Pratyush Mishra security,crypto    9 1.6
+     Alexander Rakhlin ml    9 3.2
+     Susan B. Davidson  db    8 1.9
+     André DeHon  security,arch,pl    8 1.5
+     Zachary G. Ives nlp,db,pl    8 2.4
+     Sampath Kannan  security,theory,ecom    8 2.2
+     Michael Posa robotics    8 3.3
+     Benjamin C. Lee arch,metrics    7 2.4
+     Jonathan M. Smith arch,security,metrics    7 1.6
+     Tal Rabin  security,crypto    6 1.4
+     Rahul Mangharam embedded    5 1.3
+     Val Tannen  db   5 1.3
+     Sudipto Guha ml    4 1.2
+     Duncan J. Watts ecom    4 1.2
+     Stephanie Weirich pl   4 1.3
+     Norman I. Badler robotics    3 0.8
+     Mitchell P. Marcus nlp    3 0.8
+     Danaë Metaxa hci    3 0.6
+     Rakesh V. Vohra ecom    3 0.6
+     Jean H. Gallier     2 0.6
+     James C. Gee vision    2 0.3
+     Mark Liberman nlp    2 0.4
+     Ryan Baker 0001     1 0.2
+     Yoseph Barash    1 0.3
+     Andre Scedrov     1 0.2
+18   ▼ Princeton University   6.1 58
+Faculty   # Pubs Adj. #
+     Felix Heide vision,graphics    57 12.2
+     Jason D. Lee ml    56 14.9
+     Jia Deng 0001 vision    54 17.2
+     Ryan P. Adams ml    49 14.4
+     Elad Hazan  ml    46 15.6
+     S. Matthew Weinberg ecom,theory    43 14.0
+     Prateek Mittal security    38 9.1
+     Sanjeev Arora  ml    36 8.9
+     Chi Jin 0001 ml    36 10.1
+     Karthik Narasimhan ml,nlp    36 9.8
+     Mark Braverman  theory   31 9.9
+     Pramod Viswanath ml    31 8.0
+     Kyle Jamieson mobile,networks    29 9.0
+     Margaret Martonosi  arch    28 6.7
+     Danqi Chen nlp    27 7.8
+     Ravi Netravali networks    27 6.5
+     Jennifer Rexford  networks    27 5.1
+     Olga Russakovsky vision    27 7.6
+     Gillat Kol theory    24 7.7
+     Thomas L. Griffiths 0001 ml    23 4.8
+     David Walker networks,pl    23 5.4
+     David Wentzlaff arch    22 7.6
+     Huacheng Yu theory    22 10.9
+     Aarti Gupta  logic,eda    21 5.2
+     Zachary Kincaid pl,logic    20 7.1
+     Szymon Rusinkiewicz  graphics,vision    20 5.5
+     Arvind Narayanan security    18 3.6
+     Ran Raz theory    18 7.6
+     Andrés Monroy-Hernández hci    17 3.8
+     Wyatt Lloyd os    16 3.3
+     Adam Finkelstein  graphics    15 3.3
+     Benjamin J. Raphael comp. bio    14 5.2
+     Radhika Nagpal  robotics    12 3.4
+     H. Vincent Poor ml   12 3.3
+     David I. August arch    11 1.9
+     Jaime Fernández Fisac robotics    10 2.4
+     Anirudha Majumdar robotics    10 3.6
+     H. Sebastian Seung ml,hpc,robotics    9 2.4
+     Michael J. Freedman  networks,security    8 1.9
+     Ruby B. Lee  arch    7 2.3
+     Jonathan R. Mayer security,web+ir    7 2.1
+     Yasaman Ghasempour mobile    6 1.5
+     Robert E. Tarjan   theory    6 2.2
+     Adji B. Dieng ml    5 1.4
+     Zeev Dvir theory    5 2.0
+     Aleksandra Korolova security    5 1.3
+     Naomi Ehrich Leonard ml,robotics   5 1.7
+     Ellen D. Zhong ml    5 1.2
+     Amit A. Levy os    4 0.8
+     Christine Allen-Blanchette vision    3 0.8
+     Maria Apostolaki networks    3 0.7
+     Amir Ali Ahmadi robotics    2 0.6
+     Jianqing Fan ml    2 0.6
+     Olga G. Troyanskaya     2 0.8
+     Kai Li 0001     1 0.1
+     Paul D. Seymour     1 0.2
+     Mona Singh 0001     1 0.5
+     Robert J. Vanderbei     1 0.3
+19   ▼ University of Massachusetts Amherst   5.8 62
+Faculty   # Pubs Adj. #
+     Chuang Gan ml,vision    91 16.4
+     Andrew McCallum  nlp    61 14.3
+     Jie Xiong 0001 mobile,hci    58 12.3
+     Mohit Iyyer nlp    46 11.3
+     Subhransu Maji vision    41 10.4
+     Shlomo Zilberstein  ai,robotics    40 12.7
+     Hung Le ml,theory    36 13.0
+     Philip S. Thomas ml    36 10.6
+     Cameron Musco ml,theory    35 9.7
+     Deepak Ganesan  mobile    34 7.8
+     Scott Niekum robotics,ml    33 9.0
+     Daniel Sheldon ml    31 10.1
+     Hao Zhang 0011 robotics    31 9.5
+     Shiqing Ma se,ml    29 5.2
+     Erik G. Learned-Miller vision    26 6.5
+     Evangelos Kalogerakis vision,graphics    24 4.8
+     Justin Domke ml   21 12.0
+     Yair Zick ai    21 7.1
+     Hamed Zamani web+ir    20 5.1
+     Benjamin M. Marlin ml,mobile,hci    18 4.8
+     Jeremy Gummeson mobile,networks,hci    17 3.5
+     Alexandra Meliou db    17 5.3
+     Amir Houmansadr security    16 5.4
+     Prashant J. Shenoy  hpc,hci    16 3.8
+     Don Towsley  metrics    16 3.4
+     Yuriy Brun se    15 4.3
+     Phuc Nguyen 0002 mobile    15 1.8
+     Brendan T. O'Connor 0001 nlp    14 4.8
+     Ramesh K. Sitaraman  metrics,networks   14 4.2
+     Juan Zhai se    14 2.7
+     James Allan  web+ir   12 4.3
+     Mohammad Hassan Hajiesmaili metrics    12 2.4
+     Grant Van Horn vision    10 1.8
+     Sunghoon Ivan Lee mobile,hci   10 1.9
+     Andrew McGregor 0001 ml,theory    10 2.3
+     Marco Serafini db    10 1.7
+     Bruno C. da Silva 0001 ml    10 2.6
+     Cindy Xiong visualization    10 2.6
+     Emery D. Berger  pl,arch,hci    9 3.3
+     Hui Guan hpc,ml,pl    9 2.2
+     David D. Jensen ml    9 3.0
+     David E. Irwin 0001 hpc,metrics    8 2.3
+     Andrew S. Lan ai,ml,nlp    8 2.5
+     Rui Wang 0003 vision,graphics    8 1.7
+     Roderic A. Grupen robotics   7 1.7
+     Meghan E. Huber robotics    7 1.6
+     Donghyun Kim 0002 robotics    7 1.5
+     Brian Neil Levine  mobile    6 1.5
+     Adam O'Neill security,db,crypto    6 1.4
+     Laure Thompson nlp    6 1.7
+     Narges Mahyar hci,visualization    5 1.5
+     Peter J. Haas  db    4 0.8
+     Ravi Karkar hci    4 0.6
+     Arun Venkataramani networks    4 1.1
+     Pubali Datta security    3 0.5
+     Madalina Fiterau     2 0.5
+     Hava T. Siegelmann ml    2 1.0
+     Jay Taneja     2 0.2
+     Ethan Zuckerman hci    2 0.3
+     Patrick Flaherty     1 0.2
+     James F. Kurose      1 0.3
+     Filip Rozpedek     1 0.1
+20   ▼ New York University   5.7 62
+Faculty   # Pubs Adj. #
+     Kyunghyun Cho nlp,ml    74 21.2
+     Andrew Gordon Wilson ml    57 14.8
+     Mehryar Mohri ml    55 16.5
+     Daniele Panozzo graphics    46 8.9
+     Denis Zorin graphics   41 10.2
+     Joan Bruna ml    38 10.7
+     Damon McCoy security    38 6.1
+     Lerrel Pinto ml,robotics    31 8.4
+     Cláudio T. Silva visualization    30 6.2
+     Samuel R. Bowman nlp    28 7.3
+     Yevgeniy Dodis crypto    28 7.5
+     He He 0001 nlp    26 7.8
+     Chen Feng 0002 vision,robotics    24 5.1
+     Christopher Musco theory,ml    24 7.0
+     Rajesh Ranganath ml    24 6.9
+     Qi Sun graphics,eda    24 4.2
+     Mengye Ren ml,vision    23 5.3
+     Saining Xie vision    23 5.1
+     Aurojit Panda networks    22 3.4
+     Qi Lei ml    20 5.0
+     Siddharth Garg eda,ml    19 5.0
+     Ramesh Karri eda    19 4.1
+     Anirudh Sivaraman networks    19 3.5
+     Chinmay Hegde ml    18 4.7
+     Tal Linzen nlp    18 6.3
+     Subhash Khot theory   16 5.7
+     Oded Regev 0001 theory    15 5.3
+     Michael Walfish security,networks,os    14 3.3
+     Marshall Ball crypto    13 3.4
+     Juliana Freire  db,visualization    13 3.2
+     Thomas Wies logic,pl    13 3.7
+     Joseph Bonneau security    12 2.6
+     Lakshminarayanan Subramanian nlp,web+ir    12 3.1
+     Rachel Greenstadt security    11 2.1
+     Joseph Tassarotti pl,os    11 2.7
+     Ralph Grishman nlp    10 3.7
+     Julia Stoyanovich db    10 3.0
+     Justin Cappos security,networks,se    9 2.2
+     Richard Cole 0001 theory,ecom    9 3.6
+     Jinyang Li 0001 os,db    9 1.7
+     Oded Nov hci    9 1.9
+     Brendan Dolan-Gavitt security    8 2.1
+     Benjamin Goldberg robotics    8 1.6
+     Sumit Chopra nlp,ml    7 2.1
+     Danny Yuxing Huang hci,web+ir,security    7 1.1
+     Dennis E. Shasha db,pl    7 2.1
+     Nasir D. Memon ml,security    6 2.2
+     Ken Perlin hci    6 1.4
+     Boris Aronov theory    5 1.6
+     Victor Shoup crypto    5 2.3
+     Patrick Cousot  pl,logic    4 1.7
+     Daniel B. Neill ai    3 0.8
+     Torsten Suel web+ir    3 1.2
+     Julian Togelius ai    3 0.5
+     Edward K. Wong vision    3 0.6
+     Richard Bonneau     2 0.4
+     Guido Gerig     2 0.5
+     Andrew Nealen     2 0.5
+     Davi Geiger     1 0.3
+     Lisa Hellerstein     1 0.3
+     Julia Kempe     1 0.5
+     Mohamed Zahran     1 0.3
+21   ▼ University of Southern California   5.5 60
+Faculty   # Pubs Adj. #
+     Xiang Ren 0001 nlp    85 16.7
+     Gaurav S. Sukhatme robotics    64 18.4
+     Fei Sha ml,vision    43 11.3
+     Ramesh Govindan  networks    36 7.5
+     Sven Koenig  ai    36 8.7
+     Haipeng Luo ml    36 10.8
+     Yan Liu 0002 ml,ai   28 7.8
+     Ramakant Nevatia vision    28 8.1
+     David Kempe 0001 ecom    24 9.9
+     Bistra Dilkina ai    22 4.7
+     Laurent Itti vision,robotics    22 7.6
+     Chao Wang 0001 se    22 7.7
+     Dani Yogatama nlp,ml    22 4.9
+     Harsha V. Madhyastha networks    21 4.4
+     Murali Annavaram arch    20 4.5
+     Robin Jia nlp    20 4.9
+     Jesse Thomason ai,nlp,robotics    18 3.8
+     Shaddin Dughmi ecom,theory    17 5.8
+     Ulrich Neumann vision   17 4.3
+     Mukund Raghothaman pl,se    17 4.2
+     John S. Heidemann metrics    16 4.5
+     Mahdi Soltanolkotabi ml    16 5.9
+     Jyotirmoy V. Deshmukh embedded,logic    15 3.8
+     Amir Salman Avestimehr ml    14 2.9
+     William G. J. Halfond se    14 3.4
+     C.-C. Jay Kuo vision    14 2.5
+     Cyrus Shahabi db    14 3.8
+     Swabha Swayamdipta nlp    14 2.7
+     Vatsal Sharan ml    13 3.7
+     Jieyu Zhao nlp    13 2.5
+     Jernej Barbic graphics    12 3.9
+     Stefanos Nikolaidis robotics    12 3.4
+     Nenad Medvidovic se    11 2.9
+     Maja J. Mataric robotics    10 3.3
+     Muhammad Naveed 0001 security    10 2.1
+     Barath Raghavan networks    10 2.5
+     Daniel Seita robotics    10 1.4
+     Erdem Biyik robotics    9 1.9
+     Viktor K. Prasanna  db,ml,hpc    9 2.4
+     Weihang Wang 0001 se    9 2.1
+     Shri Narayanan nlp    8 2.1
+     Seo Jin Park networks    8 2.1
+     Shang-Hua Teng  theory   8 2.2
+     Jiapeng Zhang theory    8 2.7
+     Yue Wang 0041 vision,ml    6 2.1
+     Souti Chattopadhyay se    5 1.0
+     Heather Culbertson hci    4 0.8
+     Emilio Ferrara web+ir    3 0.8
+     Bhaskar Krishnamachari robotics    3 0.8
+     Ibrahim Sabek db    3 1.0
+     Yue Zhao 0016 ml    3 0.9
+     Barry W. Boehm      2 0.8
+     Shahram Ghandeharizadeh db    2 1.0
+     Rajiv K. Kalia hpc   2 0.3
+     Aiichiro Nakano hpc   2 0.3
+     Francisco J. Valero Cuevas     1 0.3
+     Morteza Dehghani     1 0.2
+     Ming-Deh A. Huang    1 0.3
+     Kai Hwang 0001     1 0.3
+     Oded Stein     1 0.3
+22   ▼ Univ. of California - Los Angeles   5.3 42
+Faculty   # Pubs Adj. #
+     Cho-Jui Hsieh ml    125 28.6
+     Quanquan Gu ml    94 28.2
+     Mihaela van der Schaar ml    87 30.1
+     Kai-Wei Chang nlp    81 18.2
+     Amit Sahai  crypto    60 15.7
+     Bolei Zhou vision    60 12.1
+     Nanyun Peng nlp    59 15.8
+     Rafail Ostrovsky  crypto    45 11.9
+     Guy Van den Broeck ml,ai    42 12.9
+     Yizhou Sun ai,ml,web+ir    40 8.5
+     Jason Cong  eda    38 10.1
+     Wei Wang 0010 web+ir,ai,nlp   31 6.4
+     Guoqing Harry Xu os,arch,pl    31 5.8
+     Aditya Grover ml    28 7.5
+     Miryung Kim se    25 5.4
+     Adnan Darwiche  ai    24 8.9
+     Raghu Meka theory    24 8.3
+     Todd D. Millstein networks    21 4.5
+     Mani B. Srivastava  mobile,hci    21 4.2
+     Songwu Lu  mobile,networks    20 3.7
+     Baharan Mirzasoleiman ml    18 5.3
+     Judea Pearl   ai,ml    18 6.8
+     Eleazar Eskin comp. bio    16 3.7
+     George Varghese  networks    16 2.6
+     Omid Abari networks,mobile    15 3.4
+     Jens Palsberg pl,se    15 6.2
+     Tony Nowatzki arch    14 3.6
+     Achuta Kadambi vision    13 2.4
+     Stanley J. Osher ml    13 2.5
+     Alexander A. Sherstov theory    10 7.5
+     Alyson K. Fletcher ml    9 2.2
+     Carlo Zaniolo  ai,db    9 1.8
+     Miodrag Potkonjak eda   8 3.0
+     Eran Halperin comp. bio    6 1.1
+     Richard E. Korf ai    6 3.5
+     Sriram Sankararaman comp. bio,ml    6 1.7
+     Demetri Terzopoulos  graphics,vision    6 1.4
+     Glenn Reinman eda    4 0.8
+     Yuval Tamir networks   3 0.8
+     Junghoo Cho web+ir    2 0.8
+     Jason Ernst     2 0.3
+     Eli Gafni     1 0.1
+23   ▼ Stony Brook University   5.2 60
+Faculty   # Pubs Adj. #
+     Haibin Ling vision    64 17.5
+     Dimitris Samaras vision    41 9.2
+     Michael S. Ryoo vision    39 11.8
+     Xiaojun Bi 0001 hci    38 8.4
+     Nick Nikiforakis security    36 8.7
+     Minh Hoai vision    33 8.9
+     Chao Chen 0012 ml    31 7.0
+     Nilanjan Chakraborty robotics    27 8.8
+     Xianfeng Gu vision    27 6.3
+     Niranjan Balasubramanian nlp    24 5.1
+     Michael A. Bender theory    24 5.0
+     Aruna Balasubramanian metrics    21 5.1
+     Arie E. Kaufman  visualization    18 4.7
+     Michalis Polychronakis security    17 4.1
+     H. Andrew Schwartz nlp    17 3.7
+     Dongyoon Lee arch    16 3.9
+     Owen Rambow nlp    14 4.1
+     Omkant Pandey crypto    13 4.1
+     I. V. Ramakrishnan hci    12 2.2
+     Stanley Bak logic,embedded    11 3.3
+     Michael Ferdman arch    11 2.6
+     Amir Rahmati security,web+ir    11 2.4
+     Omar Chowdhury security    10 2.0
+     Samir Ranjan Das networks,mobile,metrics    10 1.9
+     Steven Skiena nlp    10 3.4
+     Xin Wang 0001 ai,metrics    9 1.4
+     Anshul Gandhi metrics    8 2.1
+     Shubham Jain eda    8 1.6
+     Shuai Mu 0001 os,networks    8 2.0
+     Klaus Mueller 0001 visualization    8 3.0
+     R. Sekar 0001 security    8 2.6
+     Nima Honarmand arch    7 2.0
+     Dominik Kempa theory    7 4.0
+     Nengkun Yu pl,theory    7 1.9
+     Radu Sion security    6 2.0
+     Gregory J. Zelinsky vision,ml    6 1.2
+     Tahsin M. Kurç vision   5 0.7
+     Zhenhua Liu 0002 metrics,networks    5 1.0
+     Peter A. Milder arch    5 1.3
+     Hong Qin     5 1.0
+     Joel H. Saltz vision    5 0.7
+     Roy Shilkrot hci    5 1.1
+     Fan Ye 0003 mobile    5 1.0
+     Jing Chen 0001 ai,ecom    4 1.6
+     Shan Lin 0001 mobile    4 1.7
+     Prateek Prasanna vision    4 0.8
+     Himanshu Gupta 0001 networks    3 0.4
+     Scott A. Smolka ai    3 0.5
+     Yifan Sun 0001     3 0.6
+     Fusheng Wang 0001 hci    3 0.3
+     Susu Xu mobile    3 1.1
+     Zhaozheng Yin vision    3 0.6
+     Scott D. Stoller security    2 0.4
+     Erez Zadok     2 0.4
+     Rong Zhao     2 0.5
+     Barbara M. Chapman     1 0.5
+     Yanhong A. Liu     1 0.5
+     Shuai Mu     1 0.2
+     Allen R. Tannenbaum     1 0.2
+     Yuanyuan Yang 0001     1 0.3
+23   ▼ University of Chicago   5.2 46
+Faculty   # Pubs Adj. #
+     Haifeng Xu ai,ml    40 12.7
+     Nick Feamster  security,metrics,networks    39 8.1
+     Shan Lu 0001 se,arch    39 8.1
+     Ben Y. Zhao  security    39 6.6
+     Haitao Zheng 0001 security    39 6.8
+     Pedro Lopes 0001 hci    38 8.9
+     Blase Ur hci,security    37 6.1
+     Henry Hoffmann arch    36 10.5
+     Frederic T. Chong arch    35 5.6
+     Michael J. Franklin  db    33 6.9
+     Diana Franklin csed    28 4.8
+     Chenhao Tan nlp    27 9.1
+     Aaron J. Elmore db   24 4.7
+     Michael Maire vision,ml    23 6.5
+     Sanjay Krishnan db    22 4.2
+     Ian T. Foster  hpc    21 3.6
+     Yuxin Chen 0001 ml    19 4.6
+     Junchen Jiang networks    17 2.8
+     Raul Castro Fernandez db    13 4.4
+     David Cash security,crypto    12 3.0
+     Marshini Chetty hci    12 3.2
+     Ken Nakagaki hci    12 2.4
+     Lorenzo Orecchia theory    12 4.3
+     Haryadi S. Gunawi arch,os    11 1.9
+     Risi Kondor ml    11 3.7
+     Victor Veitch ml    11 3.7
+     Rebecca Willett ml    11 3.5
+     Rana Hanocka graphics,vision    10 2.1
+     Aaron Potechin theory    10 3.3
+     Andrew A. Chien  arch,hpc,db    9 2.8
+     Ravi Chugh hci,pl    8 2.6
+     Yanjing Li arch,vision,ml   7 1.4
+     Grant Ho security    6 0.9
+     Gordon L. Kindlmann visualization    5 1.8
+     László Babai theory   4 2.7
+     Aloni Cohen     3 1.5
+     Andrew Drucker theory   3 2.3
+     Robert Rand 0001 pl    3 0.8
+     Rick L. Stevens hpc    3 0.3
+     Bill Fefferman theory    2 0.8
+     Alexander A. Razborov theory   2 0.5
+     John H. Reppy     2 0.7
+     Sarah Sebo     2 0.6
+     Yali Amit    1 0.3
+     Eric Jonas     1 1.0
+     Stuart A. Kurtz     1 0.3
+25   ▼ Univ. of California - Irvine   5.1 74
+Faculty   # Pubs Adj. #
+     Sameer Singh 0001 nlp    45 10.7
+     Mohsen Imani eda    39 8.7
+     Stephan Mandt ml    29 8.9
+     Alexander C. Berg vision    25 5.5
+     Qi Alfred Chen security    24 4.6
+     Zhou Li 0001 security    24 4.2
+     Alexander Ihler ml,ai    23 7.2
+     Xiaohui Xie web+ir,vision    23 3.9
+     Charless C. Fowlkes vision    21 7.3
+     Shuang Zhao graphics    21 5.2
+     Gene Tsudik  security,eda    20 4.4
+     Rina Dechter  ai    19 5.7
+     Sam Malek se    19 6.1
+     Gloria Mark hci    19 3.9
+     Ioannis Panageas ml    19 5.8
+     Anne Marie Piper hci    19 6.2
+     Daniel A. Epstein hci    18 4.0
+     Michael J. Carey 0001 db    17 5.3
+     Yunan Chen hci    17 4.7
+     Mohammad Abdullah Al Faruque eda    17 5.8
+     Gillian R. Hayes hci    17 3.3
+     Ardalan Amiri Sani mobile    17 4.9
+     Nikil D. Dutt  eda    16 3.0
+     Sharad Mehrotra db    15 3.7
+     Erik B. Sudderth ml    14 4.9
+     Pierre Baldi  ml    11 3.0
+     Brian Demsky arch,os   11 2.9
+     Chen Li 0001 db    11 1.9
+     Padhraic Smyth  ml    11 3.4
+     Iftekhar Ahmed 0001 se    10 2.3
+     Michael Franz  security   10 1.6
+     Stanislaw Jarecki crypto    10 2.7
+     Stacy M. Branham hci    9 2.2
+     Vijay V. Vazirani  theory,ecom   9 2.7
+     Aparna Chandramowlishwaran hpc,metrics    8 2.9
+     Joshua Garcia se    8 2.0
+     Melissa Mazmanian hci    8 2.9
+     Roy Fox ml,robotics    7 1.3
+     André van der Hoek se,hci    6 1.7
+     Sangeetha Abdu Jyothi networks,os    6 1.7
+     Hyoukjun Kwon arch,eda    6 1.0
+     Cristina V. Lopes se,ai    6 1.4
+     Faisal Nawab db    6 1.7
+     Theresa Jean Tanenbaum hci    6 1.8
+     Elena Agapie hci    5 1.0
+     Sang Woo Jun arch    5 1.1
+     Alexandru Nicolau eda   5 1.0
+     Kylie Peppler hci    5 0.7
+     David Eppstein  theory    4 1.9
+     Tony Givargis eda    4 1.4
+     Bonnie A. Nardi hci    4 1.6
+     Yasser Shoukry     4 0.9
+     Hengrui Cai ml   3 0.9
+     Ian G. Harris     3 0.9
+     Sitao Huang     3 0.4
+     James A. Jones se    3 0.9
+     Alfred Kobsa hci    3 1.0
+     Judith S. Olson  hci    3 1.0
+     Nalini Venkatasubramanian eda    3 0.7
+     Paul Dourish  hci    2 0.6
+     Michael T. Goodrich  theory    2 1.3
+     Sandy Irani    2 1.0
+     Marco Levorato     2 0.3
+     Gary M. Olson  hci    2 0.5
+     Debra J. Richardson csed    2 0.3
+     Yanning Shen ml    2 1.0
+     Richard N. Taylor  se    2 0.6
+     Lubomir F. Bic    1 0.2
+     Elaheh Bozorgzadeh     1 0.2
+     Michael B. Dillencourt    1 0.2
+     Amelia Regan     1 0.3
+     Bill Tomlinson    1 0.1
+     Alexander V. Veidenbaum    1 0.2
+     Kai Zheng 0002    1 0.1
+25   ▼ Univ. of California - Santa Barbara   5.1 37
+Faculty   # Pubs Adj. #
+     William Yang Wang nlp    95 22.8
+     Yuan Xie 0001 arch,eda    94 16.4
+     Lei Li 0005 nlp,ai    70 14.0
+     Shiyu Chang ml    67 12.0
+     Giovanni Vigna  security    47 8.7
+     Daniel Lokshtanov theory    45 11.8
+     Christopher Krügel security   44 7.9
+     Yufei Ding arch    35 6.4
+     Yu-Xiang Wang 0003 ml    35 12.3
+     Divyakant Agrawal  db    31 6.4
+     Xifeng Yan nlp    30 6.2
+     Ling-Qi Yan graphics    25 5.6
+     Amr El Abbadi  db    24 5.6
+     Tobias Höllerer visualization    22 6.0
+     Prabhanjan Vijendra Ananth crypto    21 6.6
+     Peng Li 0001 eda    20 7.0
+     Timothy Sherwood arch    20 4.1
+     Yu Feng 0001 pl,se    16 3.8
+     Pradeep Sen graphics,vision    15 3.4
+     Tevfik Bultan se    12 3.8
+     B. S. Manjunath  vision    12 3.2
+     Ambuj K. Singh ai,ml,web+ir   12 3.3
+     Eric Vigoda theory   12 3.2
+     Elizabeth M. Belding  nlp   11 2.5
+     Trinabh Gupta networks,db,os    11 2.2
+     Jennifer Jacobs 0001 hci    11 3.4
+     Tao Yang 0009 web+ir   9 2.6
+     Jonathan Balkind arch    8 1.7
+     Arpit Gupta networks    8 1.2
+     Ben Hardekopf arch,pl,se   7 1.3
+     Misha Sra hci    7 1.8
+     Yuan-Fang Wang vision    7 1.5
+     Subhash Suri  theory    5 1.1
+     Shumo Chu db    4 1.0
+     Michael Beyeler     2 0.7
+     Richard Wolski    2 0.6
+     Chandra Krintz    1 0.3
+27   ▼ Rutgers University   4.7 49
+Faculty   # Pubs Adj. #
+     Ping Li 0001 ml    111 40.2
+     Dimitris N. Metaxas vision    56 11.5
+     Hui Xiong 0001 ai,web+ir    50 8.6
+     Yongfeng Zhang web+ir    48 8.7
+     Desheng Zhang hci    44 7.9
+     Kostas E. Bekris robotics    35 10.4
+     Hao Wang 0014 ml,ai,vision    34 8.1
+     Jingjin Yu robotics    34 12.5
+     Pranjal Awasthi ml    33 9.9
+     Ahmed M. Elgammal ai,vision    32 9.3
+     Abdeslam Boularias robotics    26 8.5
+     Marco Gruteser mobile    23 4.4
+     Vladimir Pavlovic 0001 vision    22 6.3
+     Mubbasir Kapadia vision,ai    20 3.9
+     Dong Deng 0001 db    19 5.3
+     Karl Stratos nlp    19 7.6
+     Aaron Bernstein theory    16 6.9
+     David M. Pennock ai,ecom    16 4.7
+     Mridul Aanjaneya graphics    15 3.7
+     Martin Farach-Colton  theory,db    15 2.9
+     Santosh Nagarakatte pl    15 5.8
+     Jie Gao 0001 ecom    11 2.8
+     Kristin J. Dana vision    9 2.9
+     Srinivas Narayana networks    9 1.4
+     Thu D. Nguyen arch,csed    9 1.9
+     Karthik C. S. theory    8 3.2
+     Michael E. Saks  theory    8 3.4
+     Sudarsun Kannan arch,os    7 1.5
+     Sheng Wei 0001 eda,visualization    7 2.0
+     Eddy Z. Zhang arch,hpc    7 1.4
+     Periklis A. Papakonstantinou ai    6 2.5
+     Chirag Shah web+ir    6 2.0
+     He Zhu 0001 pl,ml    6 2.2
+     Vivek K. Singh 0001 hci    5 2.2
+     Richard P. Martin mobile    4 0.6
+     Matthew Stone ai,nlp    4 0.8
+     Jacob Feldman ai    3 0.8
+     Sunyoung Kim hci   3 1.2
+     Kostis P. Michmizos 0001 robotics   3 1.2
+     Peng Zhang 0052 theory    3 1.1
+     Amélie Marian     2 0.7
+     Dipankar Raychaudhuri mobile    2 0.2
+     Wade Trappe hci    2 0.3
+     Jaideep Vaidya     2 0.7
+     B. R. Badrinath     1 0.2
+     Alexander Borgida     1 0.3
+     Ulrich Kremer    1 0.3
+     George V. Moustakides     1 0.3
+     Manish Singh 0001     1 0.2
+28   ▼ Duke University   4.5 48
+Faculty   # Pubs Adj. #
+     Lawrence Carin ml    135 27.5
+     Yiran Chen 0001 eda    83 14.6
+     Hai Helen Li eda    63 12.3
+     Debmalya Panigrahi theory    44 13.0
+     Rong Ge 0001 ml    38 10.3
+     Jian Pei  db    38 7.8
+     Neil Zhenqiang Gong security    32 9.3
+     Kamesh Munagala ecom    32 9.5
+     Guillermo Sapiro vision,ml    26 6.6
+     Michael K. Reiter  security    22 6.2
+     Bruce M. Maggs  metrics    20 3.0
+     Sudeepa Roy db    20 6.0
+     David E. Carlson ml    19 3.9
+     Bhuwan Dhingra nlp    19 3.9
+     Jun Yang 0001 db   19 5.6
+     Pankaj K. Agarwal  db,theory    18 4.9
+     Miroslav Pajic robotics    18 4.4
+     Sam Wiseman nlp    18 5.8
+     Danyang Zhuo networks    18 2.9
+     Kartik Nayak security    15 3.2
+     Michael M. Zavlanos robotics    12 3.7
+     Cynthia Rudin ml    11 2.8
+     Brandon Fain db,ecom,ai    9 2.5
+     Ronald Parr ai,ml    9 3.3
+     A. Robert Calderbank ml,vision   8 1.9
+     Bruce Randall Donald  comp. bio    8 2.6
+     Alvin R. Lebeck arch    8 1.6
+     Matthew Lentz mobile    8 1.6
+     Benjamin Rossman theory   8 4.2
+     Daniel J. Sorin arch,robotics    8 2.6
+     Maria Gorlatova mobile    6 1.0
+     Pardis Emami Naeini security,hci    6 1.1
+     Lisa Wu Wills arch    6 1.4
+     Raluca Gordân comp. bio    4 1.2
+     Alexander J. Hartemink comp. bio    4 1.0
+     Sayan Mukherjee 0001     4 1.1
+     Carlo Tomasi  vision    4 1.5
+     Xiaowei Yang 0001 networks    4 0.9
+     Anru Zhang ml    4 1.0
+     Jeffrey S. Chase     3 0.5
+     Amanda Randles hpc    2 0.4
+     Scott C. Schmidler comp. bio   2 0.8
+     Xiaobai Sun    2 0.4
+     Alberto Bartesaghi     1 0.3
+     Allison June-Barlow Chaney     1 0.3
+     Sina Farsiu     1 0.1
+     Rebecca C. Steorts     1 0.2
+     Alicia Nicki Washington     1 1.0
+28   ▼ Univ. of California - Riverside   4.5 49
+Faculty   # Pubs Adj. #
+     Cong Liu 0005 embedded    43 12.8
+     Zhiyun Qian security   43 9.0
+     Amit K. Roy-Chowdhury vision    42 11.2
+     Nael B. Abu-Ghazaleh arch    28 6.0
+     Chengyu Song security    27 4.8
+     Greg Ver Steeg ml    26 6.6
+     Sheldon X.-D. Tan eda    24 6.1
+     Zizhong Chen hpc    23 4.5
+     Srikanth V. Krishnamurthy security,mobile    19 3.3
+     Hyoseung Kim 0001 embedded    18 5.3
+     Rajiv Gupta 0001  arch,hpc    17 5.1
+     Emiliano De Cristofaro metrics,security    16 3.4
+     Shaolei Ren metrics,eda   16 5.6
+     Heng Yin 0001 security    15 3.4
+     Zhijia Zhao 0001 arch    14 4.7
+     Muhammad Salman Asif vision    12 2.4
+     Samet Oymak ml    12 4.0
+     Yue Dong 0002 nlp    11 2.6
+     Konstantinos Karydis robotics    11 3.8
+     Manu Sridharan se,pl    11 2.8
+     Hung-Wei Tseng 0001 arch    11 3.1
+     Yan Gu 0001 db    10 2.2
+     Daniel Wong 0001 arch    10 2.8
+     Elaheh Sadredini arch,eda    9 2.0
+     Philip Brisk eda    8 2.2
+     Amey Bhangale theory    7 2.3
+     Mohsen Lesani pl,logic    7 2.3
+     K. K. Ramakrishnan  networks    7 1.7
+     Silas Richelson theory,security   7 2.1
+     Vassilis J. Tsotras db    7 1.6
+     Bir Bhanu vision    6 1.3
+     Ahmed Eldawy db    6 1.6
+     Vagelis Hristidis db    6 1.7
+     Tao Jiang 0001  comp. bio    6 1.6
+     Qian Zhang 0020 eda,se    6 1.5
+     Evangelos E. Papalexakis nlp    5 1.2
+     Craig A. Schroeder graphics    5 0.9
+     Christian R. Shelton ml    5 1.7
+     Frank Vahid csed    5 1.5
+     Jiasi Chen mobile   4 0.8
+     Stefano Lonardi comp. bio    4 1.2
+     Michalis Faloutsos web+ir    3 1.0
+     Eamonn J. Keogh db    3 1.1
+     Walid A. Najjar eda    3 1.2
+     Yihan Sun 0001 db    3 0.8
+     Neal E. Young theory    3 0.8
+     Marek Chrobak theory    2 0.4
+     Tamar Shinar graphics    2 0.5
+     Amr Magdy 0001     1 0.3
+30   ▼ Northwestern University   4.3 46
+Faculty   # Pubs Adj. #
+     Zhaoran Wang ml    89 20.6
+     Xinyu Xing security    40 8.0
+     Qi Zhu 0002 eda    38 8.0
+     Xiao Wang 0012 security    34 7.4
+     Jessica Hullman hci,visualization    32 9.2
+     Han Liu 0001 ml    32 9.3
+     Matthew Kay 0001 hci    27 7.6
+     Doug Downey nlp    23 6.2
+     Josiah D. Hester hci,mobile    23 5.0
+     Jason D. Hartline theory,ecom    21 7.0
+     Konstantin Makarychev theory,ml   18 5.8
+     Aravindan Vijayaraghavan ml,theory    18 5.9
+     Brent J. Hecht hci    17 3.7
+     Kenneth D. Forbus  ai    16 5.8
+     Fabián E. Bustamante metrics    14 3.6
+     Simone Campanoni arch,pl    14 2.5
+     Peter A. Dinda hpc    13 2.9
+     Michael Rubenstein robotics    13 4.8
+     Darren Gergle hci    12 4.1
+     Brenna D. Argall robotics    11 4.2
+     Haoqi Zhang hci    10 3.0
+     Yan Chen 0004 security    9 1.5
+     Nikos Hardavellas arch,hpc,pl   9 1.5
+     Michael S. Horn hci    9 2.3
+     Nabil Alshurafa hci    8 1.1
+     Jie Gu 0001 eda    8 2.2
+     Jennie Rogers db    8 1.8
+     Alok N. Choudhary  hpc,vision    7 1.3
+     V. S. Subrahmanian ai    7 1.6
+     Hai Zhou eda    7 2.0
+     Andrew Crotty db    5 0.8
+     Maia L. Jacobs hci    5 1.0
+     Russ Joseph eda,arch    5 1.4
+     Samir Khuller ml,theory    5 1.1
+     Eleanor O'Rourke hci    5 1.1
+     Christos Dimoulas pl    4 1.0
+     Lawrence Birnbaum nlp    3 0.7
+     Oliver Cossairt vision    3 0.5
+     Robert Bruce Findler pl    3 0.7
+     Aggelos K. Katsaggelos vision    3 0.5
+     Aleksandar Kuzmanovic     3 0.7
+     Gokhan Memik     3 1.2
+     Randall Berry     2 0.5
+     Seda Ogrenci Memik eda    2 0.4
+     Bryan Pardo     2 0.4
+     Uri Wilensky    1 0.5
+30   ▼ Pennsylvania State University   4.3 61
+Faculty   # Pubs Adj. #
+     Mahmut T. Kandemir arch    72 14.7
+     Chita R. Das arch    33 5.4
+     C. Lee Giles  ai    26 6.8
+     Rui Zhang 0037 nlp    25 4.0
+     Peng Liu 0005 security    24 4.8
+     Ting Wang 0006 security    24 3.6
+     Zhenhui Li ai    23 4.2
+     Anand Sivasubramaniam  arch    22 3.9
+     Daniel Kifer db,ai    20 5.2
+     Suhang Wang ai    20 4.3
+     Dinghao Wu security    19 3.9
+     Danfeng Zhang security,pl    18 4.3
+     Hong Hu 0004 security    17 3.2
+     Mehrdad Mahdavi ml    17 4.3
+     Narayanan Vijaykrishnan  eda,arch    17 2.7
+     Dongwon Lee 0001 web+ir,ai,nlp    16 4.5
+     Fenglong Ma ai,web+ir    16 2.6
+     Jack Sampson arch,eda    16 2.9
+     John M. Carroll 0001 hci    15 3.4
+     Swaroop Ghosh eda    15 4.4
+     Xiang Zhang 0001 ai,web+ir,db   15 3.1
+     Zihan Zhou 0001 vision    15 4.1
+     Aasheesh Kolli arch    14 2.8
+     Mahanth Gowda mobile,hci    13 3.7
+     Trent Jaeger security    13 2.8
+     Gang Tan security    13 4.0
+     Wang-Chien Lee web+ir    12 2.6
+     Linhai Song arch,se    12 2.8
+     Huijuan Xu 0001 vision    12 2.5
+     Nan Zhang 0004 db   12 2.9
+     Jinghui Chen ml,ai    11 3.2
+     Vasant G. Honavar ai,web+ir    10 2.9
+     Hadi Hosseini ai    10 3.3
+     Shomir Wilson nlp    10 2.2
+     Sharon X. Huang vision    9 1.7
+     Paul Medvedev comp. bio    8 3.0
+     Rebecca J. Passonneau nlp    8 2.5
+     Debarati Das 0001 theory   7 1.6
+     Arzoo Katiyar nlp    7 2.7
+     Taegyu Kim security    7 0.9
+     Yanxi Liu vision    7 2.8
+     Dong Xie 0001 db    7 1.9
+     Robert T. Collins vision    6 2.3
+     Mingfu Shao comp. bio    5 2.2
+     Sencun Zhu     5 1.2
+     Antonio Blanca theory    4 1.1
+     Chunhao Wang     4 0.9
+     Timothy Zhu os    4 0.7
+     Guohong Cao hci    3 0.7
+     Ting He 0001 metrics    3 0.5
+     George Kesidis     3 0.8
+     Bhuvan Urgaonkar     3 0.6
+     Abutalib Aghayev os    2 0.3
+     Sean Hallgren    2 0.5
+     Syed Rafiul Hussain security    2 0.4
+     Mary Jane Irwin      2 0.3
+     Kamesh Madduri hpc    2 0.2
+     Thomas La Porta     2 0.3
+     Piotr Berman    1 0.3
+     David Koslicki     1 0.5
+     Shagufta Mehnaz     1 0.2
