@@ -158,15 +158,15 @@ with open("university.json", "r") as file:
     data = json.load(file)
 
 
-location_file = open("location_details_2.json", "w")
-total_location_details_extracted = 0
+location_file = open("location_details_3.json", "w")
+total_location_details_extracted = 136
 #loop through the data and take the name as university_name
 location_file.write("[\n")
 
-short_details_exception_file = open("short_details_exception_2.txt", "w")
-full_details_exception_file = open("full_details_exception_2.txt", "w")
-image_link_exception_file = open("image_link_exception.txt_2", "w")
-Location_details_not_found_file = open("Location_details_not_found_2.txt", "w")
+short_details_exception_file = open("short_details_exception_3.txt", "w")
+full_details_exception_file = open("full_details_exception_3.txt", "w")
+image_link_exception_file = open("image_link_exception.txt_3", "w")
+Location_details_not_found_file = open("Location_details_not_found_3.txt", "w")
 
 for item in data:
     
