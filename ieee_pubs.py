@@ -10,7 +10,7 @@ professors_publications = {}
 professors_data = []
 
 
-def extract_info(text):
+def extract_info(text, link):
     publication_data = {}
 
     # Split the text into lines
@@ -72,6 +72,7 @@ def extract_info(text):
             
     # Store the extracted information in a dictionary
     publication_data["title"] = title
+    publication_data["link"] = link
     publication_data["date_of_publication"] = date_of_conference
     publication_data["doi"] = doi
     publication_data["citations"] = citations
@@ -127,7 +128,7 @@ try:
                 
                 try:
                     title = driver.find_element(By.ID, 'xplMainContentLandmark')
-                    publication_data = extract_info(title.text)
+                    publication_data = extract_info(title.text, pub)
                     prof_publications.append(publication_data)
                     pub_count += 1
                     print("pub_count", pub_count, ", prof_count", prof_count)
@@ -143,10 +144,10 @@ try:
         "name": professor,
         "publications": prof_publications
         }
-
+        print("professor:", professor)
         professors_data.append(professors_publications)
         prof_count += 1
-        if prof_count == 120:
+        if prof_count == 150:
             break
 except  Exception as e:
     print(e)
