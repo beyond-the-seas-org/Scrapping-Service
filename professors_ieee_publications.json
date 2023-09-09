@@ -1,0 +1,54 @@
+[
+    {
+        "name": "Graham Neubig",
+        "publications": [
+            {
+                "title": "Poster: Learning to Mine Parallel Natural Language/Source Code Corpora from Stack Overflow",
+                "date_of_publication": "30 August 2018",
+                "doi": null,
+                "citations": "66",
+                "abstract": "For tasks like code synthesis from natural language, code retrieval, and code summarization, data-driven models have shown great promise. However, creating these models requires parallel data between natural language (NL) and code with fine-grained alignments. Stack Overflow (SO) is a promising source to create such a data set but existing heuristic methods are limited both in their coverage and the correctness of the NL-code pairs obtained. In this paper, we propose a method to mine high-quality aligned data from SO by training a classifier using two sets of features: hand-crafted features considering the structure of the extracted snippets, and correspondence features obtained by training a neural network model to capture the correlation between NL and code. Experiments using Python and Java as test beds show that the proposed method greatly expands coverage and accuracy over existing mining methods, even when using only a small number of labeled examples.",
+                "ieee_keywords": [
+                    "Feature extraction",
+                    "Data mining",
+                    "Natural languages",
+                    "Training",
+                    "Python",
+                    "Java",
+                    "Data models"
+                ],
+                "author_keywords": [
+                    "Code Mining",
+                    "Stack Overflow",
+                    "Neural Networks",
+                    "Bimodal Modeling"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "David Woodruff",
+        "publications": [
+            {
+                "title": "Active Linear Regression for ℓp Norms and Beyond",
+                "date_of_publication": "28 December 2022",
+                "doi": "10.1109/FOCS54457.2022.00076",
+                "citations": "76",
+                "abstract": "We study active sampling algorithms for linear regression, which aim to query only a small number of entries of a target vector and output a near minimizer to the objective function. For ℓ p norm regression for any 0<p<∞ , we give an algorithm based on Lewis weight sampling which outputs a(1+ϵ) -approximate solution using just O ~ (d/ ϵ 2 ) queries to b for p∈(0,1) , O ~ (d/ϵ) queries for p∈(1,2) , and O ~ ( d p/2 / ϵ p ) queries for p∈(2, ∞) . For p∈(0,2) , our bounds are optimal up to logarithmic factors, thus settling the query complexity for this range of p. For p∈(2, ∞) , our dependence on d is optimal, while our dependence on ϵ is off by at most a single ϵ factor, up to logarithmic factors. Our result resolves an open question of Chen and Dereziński, who gave near optimal bounds for the ℓ 1 norm, but required at least d 2 / ϵ 2 samples for ℓ p regression with p∈(1,2) , and gave no bounds for p∈(2, ∞) or p∈(0,1) . We also provide the first total sensitivity upper bound for loss functions with at most degree p polynomial growth. This improves a recent result of Tukan, Maalouf, and Feldman. By combining this with our techniques for ℓ p regression, we obtain the first active regression algorithms for such loss functions, including the important cases of the Tukey and Huber losses. This answers another question of Chen and Dereziński. Our sensitivity bounds also give improvements to a variety of previous results using sensitivity sampling, including Orlicz norm subspace embeddings, robust subspace approximation, and dimension reduction for smoothed p-norms. Finally, our active sampling results give the first sublinear time algorithms for Kronecker product regression under every ℓ p norm. Previous results required reading the entire b vector in the kernel feature space. 1 1 Extende... (Show More)",
+                "ieee_keywords": [
+                    "Dimensionality reduction",
+                    "Computer science",
+                    "Sensitivity",
+                    "Upper bound",
+                    "Linear regression",
+                    "Approximation algorithms",
+                    "Linear programming"
+                ],
+                "author_keywords": [
+                    "active learning",
+                    "linear regression"
+                ]
+            }
+        ]
+    }
+]
