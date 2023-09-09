@@ -1,0 +1,947 @@
+[
+{
+    "name": "Carnegie Mellon University",
+    "rank": "1",
+    "location": "Pittsburgh, Pennsylvania, United States"
+},
+{
+    "name": "Univ. of Illinois at Urbana-Champaign",
+    "rank": "2",
+    "location": "Urbana and Champaign, Illinois, United States"
+},
+{
+    "name": "Univ. of California - San Diego",
+    "rank": "3",
+    "location": "La Jolla, San Diego, California, United States"
+},
+{
+    "name": "Massachusetts Institute of Technology",
+    "rank": "4",
+    "location": "Cambridge, Massachusetts, United States"
+},
+{
+    "name": "Georgia Institute of Technology",
+    "rank": "5",
+    "location": "Atlanta, Georgia, United States"
+},
+{
+    "name": "Stanford University",
+    "rank": "6",
+    "location": "Stanford, California, United States"
+},
+{
+    "name": "University of Michigan",
+    "rank": "7",
+    "location": "Ann Arbor, Michigan, United States"
+},
+{
+    "name": "University of Washington",
+    "rank": "8",
+    "location": "Seattle, Washington, United States"
+},
+{
+    "name": "Univ. of California - Berkeley",
+    "rank": "9",
+    "location": "Berkeley, California, United States"
+},
+{
+    "name": "Cornell University",
+    "rank": "10",
+    "location": "Ithaca, New York, United States"
+},
+{
+    "name": "University of Maryland - College Park",
+    "rank": "11",
+    "location": "College Park, Maryland, United States"
+},
+{
+    "name": "Northeastern University",
+    "rank": "12",
+    "location": "Boston, Massachusetts, United States"
+},
+{
+    "name": "University of Wisconsin - Madison",
+    "rank": "13",
+    "location": "Madison, Wisconsin, United States"
+},
+{
+    "name": "Columbia University",
+    "rank": "14",
+    "location": "New York, New York, United States"
+},
+{
+    "name": "Purdue University",
+    "rank": "15",
+    "location": "West Lafayette, Indiana, United States"
+},
+{
+    "name": "University of Texas at Austin",
+    "rank": "15",
+    "location": "Austin, Texas, United States"
+},
+{
+    "name": "University of Pennsylvania",
+    "rank": "17",
+    "location": "Philadelphia, Pennsylvania, United States"
+},
+{
+    "name": "Princeton University",
+    "rank": "18",
+    "location": "Location not found"
+},
+{
+    "name": "University of Massachusetts Amherst",
+    "rank": "19",
+    "location": "Amherst, Massachusetts, United States"
+},
+{
+    "name": "New York University",
+    "rank": "20",
+    "location": "Location not found"
+},
+{
+    "name": "University of Southern California",
+    "rank": "21",
+    "location": "Los Angeles, California, United States"
+},
+{
+    "name": "Univ. of California - Los Angeles",
+    "rank": "22",
+    "location": "Westwood, Los Angeles, California, United States"
+},
+{
+    "name": "Stony Brook University",
+    "rank": "23",
+    "location": "Stony Brook, New York, United States"
+},
+{
+    "name": "University of Chicago",
+    "rank": "23",
+    "location": "Chicago, Illinois, United States"
+},
+{
+    "name": "Univ. of California - Irvine",
+    "rank": "25",
+    "location": "Irvine, California, United States"
+},
+{
+    "name": "Univ. of California - Santa Barbara",
+    "rank": "25",
+    "location": "Santa Barbara, California, United States"
+},
+{
+    "name": "Rutgers University",
+    "rank": "27",
+    "location": "New Brunswick\u2013Piscataway, New Jersey, United States"
+},
+{
+    "name": "Duke University",
+    "rank": "28",
+    "location": "Durham, North Carolina, United States"
+},
+{
+    "name": "Univ. of California - Riverside",
+    "rank": "28",
+    "location": "Riverside, California, United States"
+},
+{
+    "name": "Northwestern University",
+    "rank": "30",
+    "location": "Evanston, Illinois, United States"
+},
+{
+    "name": "Pennsylvania State University",
+    "rank": "30",
+    "location": "University Park, Pennsylvania, United States"
+},
+{
+    "name": "University of Utah",
+    "rank": "32",
+    "location": "Salt Lake City, Utah, United States"
+},
+{
+    "name": "George Mason University",
+    "rank": "33",
+    "location": "Fairfax, Virginia, United States"
+},
+{
+    "name": "Harvard University",
+    "rank": "33",
+    "location": "Cambridge, Massachusetts, United States"
+},
+{
+    "name": "Ohio State University",
+    "rank": "33",
+    "location": "Columbus, Ohio, United States"
+},
+{
+    "name": "Texas A&M University",
+    "rank": "33",
+    "location": "College Station, Texas, United States"
+},
+{
+    "name": "Univ. of California - Santa Cruz",
+    "rank": "33",
+    "location": "Santa Cruz, California, United States"
+},
+{
+    "name": "Yale University",
+    "rank": "33",
+    "location": "New Haven, Connecticut, United States"
+},
+{
+    "name": "Boston University",
+    "rank": "39",
+    "location": "Boston, Massachusetts, United States"
+},
+{
+    "name": "Brown University",
+    "rank": "39",
+    "location": "Providence, Rhode Island, United States"
+},
+{
+    "name": "North Carolina State University",
+    "rank": "39",
+    "location": "Raleigh, North Carolina, United States"
+},
+{
+    "name": "University of Virginia",
+    "rank": "39",
+    "location": "Charlottesville, Virginia, United States"
+},
+{
+    "name": "University at Buffalo",
+    "rank": "43",
+    "location": "Buffalo, New York, United States"
+},
+{
+    "name": "Rice University",
+    "rank": "44",
+    "location": "Houston, Texas, United States"
+},
+{
+    "name": "University of Colorado Boulder",
+    "rank": "45",
+    "location": "Boulder, Colorado, United States"
+},
+{
+    "name": "University of Illinois at Chicago",
+    "rank": "45",
+    "location": "Chicago, Illinois, United States"
+},
+{
+    "name": "University of North Carolina",
+    "rank": "45",
+    "location": "Chapel Hill, North Carolina, United States"
+},
+{
+    "name": "Arizona State University",
+    "rank": "48",
+    "location": "Tempe, Arizona, United States"
+},
+{
+    "name": "University of Minnesota",
+    "rank": "48",
+    "location": "Minneapolis-Saint Paul, Minnesota, United States"
+},
+{
+    "name": "Virginia Tech",
+    "rank": "48",
+    "location": "Blacksburg, Virginia, United States"
+},
+{
+    "name": "Univ. of California - Davis",
+    "rank": "51",
+    "location": "Davis, California, United States"
+},
+{
+    "name": "Johns Hopkins University",
+    "rank": "52",
+    "location": "Baltimore, Maryland, United States"
+},
+{
+    "name": "Oregon State University",
+    "rank": "53",
+    "location": "Corvallis, Oregon, United States"
+},
+{
+    "name": "Indiana University",
+    "rank": "54",
+    "location": "Bloomington, Indiana, United States"
+},
+{
+    "name": "University of Central Florida",
+    "rank": "55",
+    "location": "Orlando, Florida, United States"
+},
+{
+    "name": "University of Rochester",
+    "rank": "56",
+    "location": "Rochester, New York, United States"
+},
+{
+    "name": "Michigan State University",
+    "rank": "57",
+    "location": "East Lansing, Michigan, United States"
+},
+{
+    "name": "Rochester Institute of Technology",
+    "rank": "57",
+    "location": "Henrietta, New York, United States"
+},
+{
+    "name": "University of Pittsburgh",
+    "rank": "57",
+    "location": "Pittsburgh, Pennsylvania, United States"
+},
+{
+    "name": "University of Texas at Dallas",
+    "rank": "57",
+    "location": "Richardson, Texas, United States"
+},
+{
+    "name": "Washington University in St. Louis",
+    "rank": "61",
+    "location": "St. Louis, Missouri, United States"
+},
+{
+    "name": "University of Notre Dame",
+    "rank": "62",
+    "location": "Notre Dame, Indiana, United States"
+},
+{
+    "name": "Univ. of California - Merced",
+    "rank": "63",
+    "location": "Merced, California, United States"
+},
+{
+    "name": "University of Delaware",
+    "rank": "63",
+    "location": "Newark, Delaware, United States"
+},
+{
+    "name": "University of Florida",
+    "rank": "63",
+    "location": "Gainesville, Florida, United States"
+},
+{
+    "name": "University of Texas at Arlington",
+    "rank": "63",
+    "location": "Arlington, Texas, United States"
+},
+{
+    "name": "University of Connecticut",
+    "rank": "67",
+    "location": "Storrs, Connecticut, United States"
+},
+{
+    "name": "Binghamton University",
+    "rank": "68",
+    "location": "Vestal, New York, United States"
+},
+{
+    "name": "Clemson University",
+    "rank": "68",
+    "location": "Clemson, South Carolina, United States"
+},
+{
+    "name": "TTI Chicago",
+    "rank": "68",
+    "location": "Chicago, Illinois, United States"
+},
+{
+    "name": "Vanderbilt University",
+    "rank": "68",
+    "location": "Nashville, Tennessee, United States"
+},
+{
+    "name": "Worcester Polytechnic Institute",
+    "rank": "68",
+    "location": "Worcester, Massachusetts, United States"
+},
+{
+    "name": "California Institute of Technology",
+    "rank": "73",
+    "location": "Pasadena, California, United States"
+},
+{
+    "name": "College of William and Mary",
+    "rank": "73",
+    "location": "Williamsburg, Virginia, United States"
+},
+{
+    "name": "Dartmouth College",
+    "rank": "73",
+    "location": "Hanover, New Hampshire, United States"
+},
+{
+    "name": "Florida State University",
+    "rank": "73",
+    "location": "Tallahassee, Florida, United States"
+},
+{
+    "name": "Iowa State University",
+    "rank": "73",
+    "location": "Ames, Iowa, United States"
+},
+{
+    "name": "Stevens Institute of Technology",
+    "rank": "73",
+    "location": "Location not found"
+},
+{
+    "name": "CUNY",
+    "rank": "79",
+    "location": "Location not found"
+},
+{
+    "name": "Emory University",
+    "rank": "79",
+    "location": "Atlanta, Georgia, United States"
+},
+{
+    "name": "Georgetown University",
+    "rank": "79",
+    "location": "Washington, District of Columbia, United States"
+},
+{
+    "name": "NJIT",
+    "rank": "79",
+    "location": "Newark, New Jersey, United States"
+},
+{
+    "name": "Tufts University",
+    "rank": "79",
+    "location": "Medford and Somerville, Massachusetts, United States"
+},
+{
+    "name": "University of Arizona",
+    "rank": "79",
+    "location": "Tucson, Arizona, United States"
+},
+{
+    "name": "University of Georgia",
+    "rank": "79",
+    "location": "Athens, Georgia, United States"
+},
+{
+    "name": "University of Oregon",
+    "rank": "79",
+    "location": "Eugene, Oregon, United States"
+},
+{
+    "name": "Colorado School of Mines",
+    "rank": "87",
+    "location": "Golden, Colorado, United States"
+},
+{
+    "name": "Illinois Institute of Technology",
+    "rank": "87",
+    "location": "Chicago, Illinois, United States"
+},
+{
+    "name": "Temple University",
+    "rank": "87",
+    "location": "Philadelphia, Pennsylvania, United States"
+},
+{
+    "name": "Tulane University",
+    "rank": "87",
+    "location": "New Orleans, Louisiana, United States"
+},
+{
+    "name": "University of Houston",
+    "rank": "87",
+    "location": "Houston, Texas, United States"
+},
+{
+    "name": "University of Nebraska",
+    "rank": "87",
+    "location": "Lincoln, Nebraska, United States"
+},
+{
+    "name": "University of Tennessee",
+    "rank": "87",
+    "location": "Knoxville, Tennessee, United States"
+},
+{
+    "name": "Washington State University",
+    "rank": "87",
+    "location": "Pullman, Washington, United States"
+},
+{
+    "name": "Brigham Young University",
+    "rank": "95",
+    "location": "Provo, Utah, United States"
+},
+{
+    "name": "George Washington University",
+    "rank": "95",
+    "location": "Location not found"
+},
+{
+    "name": "Lehigh University",
+    "rank": "95",
+    "location": "Bethlehem, Pennsylvania, United States"
+},
+{
+    "name": "Syracuse University",
+    "rank": "95",
+    "location": "Syracuse, New York, United States"
+},
+{
+    "name": "UNC - Charlotte",
+    "rank": "95",
+    "location": "University City, Charlotte, North Carolina, United States"
+},
+{
+    "name": "University of Massachusetts Lowell",
+    "rank": "95",
+    "location": "Lowell, Massachusetts, United States"
+},
+{
+    "name": "University of South Carolina",
+    "rank": "95",
+    "location": "Columbia, South Carolina, United States"
+},
+{
+    "name": "Wayne State University",
+    "rank": "95",
+    "location": "Detroit, Michigan, United States"
+},
+{
+    "name": "Brandeis University",
+    "rank": "103",
+    "location": "Waltham, Massachusetts, United States"
+},
+{
+    "name": "Case Western Reserve University",
+    "rank": "103",
+    "location": "Cleveland, Ohio, United States"
+},
+{
+    "name": "Drexel University",
+    "rank": "103",
+    "location": "Philadelphia, Pennsylvania, United States"
+},
+{
+    "name": "Florida International University",
+    "rank": "103",
+    "location": "Miami[a], Florida, United States"
+},
+{
+    "name": "Portland State University",
+    "rank": "103",
+    "location": "Portland, Oregon, United States"
+},
+{
+    "name": "Rensselaer Polytechnic Institute",
+    "rank": "103",
+    "location": "Troy, New York, United States"
+},
+{
+    "name": "Univ. of Maryland - Baltimore County",
+    "rank": "103",
+    "location": "Catonsville, Maryland, United States"
+},
+{
+    "name": "University of Iowa",
+    "rank": "103",
+    "location": "Iowa City, Iowa, United States"
+},
+{
+    "name": "University of Louisiana - Lafayette",
+    "rank": "103",
+    "location": "Lafayette, Louisiana, United States"
+},
+{
+    "name": "University of New Hampshire",
+    "rank": "103",
+    "location": "Durham, New Hampshire, United States"
+},
+{
+    "name": "University of North Texas",
+    "rank": "103",
+    "location": "Denton, Texas, United States"
+},
+{
+    "name": "Auburn University",
+    "rank": "114",
+    "location": "Auburn, Alabama, United States"
+},
+{
+    "name": "Augusta University",
+    "rank": "114",
+    "location": "Augusta, Georgia, United States"
+},
+{
+    "name": "Boston College",
+    "rank": "114",
+    "location": "Chestnut Hill, Massachusetts, United States"
+},
+{
+    "name": "Colorado State University",
+    "rank": "114",
+    "location": "Fort Collins, Colorado, United States"
+},
+{
+    "name": "DePaul University",
+    "rank": "114",
+    "location": "Chicago, Illinois, United States"
+},
+{
+    "name": "Kent State University",
+    "rank": "114",
+    "location": "Kent, Ohio, United States"
+},
+{
+    "name": "Michigan Technological University",
+    "rank": "114",
+    "location": "Houghton, Michigan, United States"
+},
+{
+    "name": "University of Arkansas",
+    "rank": "114",
+    "location": "Fayetteville, Arkansas, United States"
+},
+{
+    "name": "University of Kansas",
+    "rank": "114",
+    "location": "Lawrence, Kansas, United States"
+},
+{
+    "name": "University of Kentucky",
+    "rank": "114",
+    "location": "Lexington, Kentucky, United States"
+},
+{
+    "name": "University of Memphis",
+    "rank": "114",
+    "location": "Memphis, Tennessee, United States"
+},
+{
+    "name": "University of Nevada",
+    "rank": "114",
+    "location": "Reno, Nevada, United States"
+},
+{
+    "name": "University of South Florida",
+    "rank": "114",
+    "location": "Tampa, Florida, United States"
+},
+{
+    "name": "University of Texas at San Antonio",
+    "rank": "114",
+    "location": "San Antonio, Texas, United States"
+},
+{
+    "name": "Virginia Commonwealth University",
+    "rank": "114",
+    "location": "Richmond, Virginia, United States"
+},
+{
+    "name": "Boise State University",
+    "rank": "129",
+    "location": "Boise, Idaho, United States"
+},
+{
+    "name": "Cleveland State University",
+    "rank": "129",
+    "location": "Cleveland, Ohio, United States"
+},
+{
+    "name": "Georgia State University",
+    "rank": "129",
+    "location": "Location not found"
+},
+{
+    "name": "IUPUI",
+    "rank": "129",
+    "location": "Location not found"
+},
+{
+    "name": "Kansas State University",
+    "rank": "129",
+    "location": "Manhattan, Kansas, United States"
+},
+{
+    "name": "Louisiana State University",
+    "rank": "129",
+    "location": "Baton Rouge, Louisiana, United States"
+},
+{
+    "name": "New Mexico State University",
+    "rank": "129",
+    "location": "Las Cruces, New Mexico, United States"
+},
+{
+    "name": "Northern Arizona University",
+    "rank": "129",
+    "location": "Flagstaff, Arizona, United States"
+},
+{
+    "name": "Old Dominion University",
+    "rank": "129",
+    "location": "Norfolk, Virginia, United States"
+},
+{
+    "name": "Texas State University",
+    "rank": "129",
+    "location": "Location not found"
+},
+{
+    "name": "Texas Tech University",
+    "rank": "129",
+    "location": "Lubbock, Texas, United States"
+},
+{
+    "name": "UCCS",
+    "rank": "129",
+    "location": "Location not found"
+},
+{
+    "name": "University of Alabama - Birmingham",
+    "rank": "129",
+    "location": "Birmingham, Alabama, United States"
+},
+{
+    "name": "University of Hawaii at Manoa",
+    "rank": "129",
+    "location": "Honolulu, Hawaii, United States"
+},
+{
+    "name": "University of Massachusetts Boston",
+    "rank": "129",
+    "location": "Dorchester, Boston, Massachusetts, United States"
+},
+{
+    "name": "University of Nebraska - Omaha",
+    "rank": "129",
+    "location": "Omaha, Nebraska, United States"
+},
+{
+    "name": "University of New Mexico",
+    "rank": "129",
+    "location": "Albuquerque, New Mexico, United States"
+},
+{
+    "name": "University of Vermont",
+    "rank": "129",
+    "location": "Location not found"
+},
+{
+    "name": "West Virginia University",
+    "rank": "129",
+    "location": "Morgantown, West Virginia, United States"
+},
+{
+    "name": "Florida Atlantic University",
+    "rank": "148",
+    "location": "Boca Raton, Florida, United States"
+},
+{
+    "name": "Mississippi State University",
+    "rank": "148",
+    "location": "Mississippi State and Starkville, Mississippi, United States"
+},
+{
+    "name": "Naval Postgraduate School",
+    "rank": "148",
+    "location": "Monterey, California, United States"
+},
+{
+    "name": "OHSU",
+    "rank": "148",
+    "location": "Portland, Oregon, United States"
+},
+{
+    "name": "Ohio University",
+    "rank": "148",
+    "location": "Athens, Ohio, United States"
+},
+{
+    "name": "Oklahoma State University",
+    "rank": "148",
+    "location": "Stillwater, Oklahoma, United States"
+},
+{
+    "name": "Saint Louis University",
+    "rank": "148",
+    "location": "Location not found"
+},
+{
+    "name": "The University of Alabama",
+    "rank": "148",
+    "location": "Tuscaloosa, Alabama, United States"
+},
+{
+    "name": "Towson University",
+    "rank": "148",
+    "location": "Towson, Maryland, United States"
+},
+{
+    "name": "UNC - Greensboro",
+    "rank": "148",
+    "location": "Location not found"
+},
+{
+    "name": "University at Albany - SUNY",
+    "rank": "148",
+    "location": "Albany, New York, United States"
+},
+{
+    "name": "University of Cincinnati",
+    "rank": "148",
+    "location": "Cincinnati, Ohio, United States"
+},
+{
+    "name": "University of Colorado - Denver",
+    "rank": "148",
+    "location": "Denver, Colorado, United States"
+},
+{
+    "name": "University of Denver",
+    "rank": "148",
+    "location": "Denver, Colorado, United States"
+},
+{
+    "name": "University of Michigan-Dearborn",
+    "rank": "148",
+    "location": "Dearborn, Michigan, United States"
+},
+{
+    "name": "University of Missouri",
+    "rank": "148",
+    "location": "Columbia, Missouri, United States"
+},
+{
+    "name": "University of Nevada Las Vegas",
+    "rank": "148",
+    "location": "Paradise, Nevada, United States"
+},
+{
+    "name": "University of New Orleans",
+    "rank": "148",
+    "location": "Location not found"
+},
+{
+    "name": "University of Oklahoma",
+    "rank": "148",
+    "location": "Norman, Oklahoma, United States"
+},
+{
+    "name": "University of Southern Mississippi",
+    "rank": "148",
+    "location": "Hattiesburg, Mississippi, United States"
+},
+{
+    "name": "University of Texas - El Paso",
+    "rank": "148",
+    "location": "El Paso, Texas, United States"
+},
+{
+    "name": "University of Wisconsin - Milwaukee",
+    "rank": "148",
+    "location": "Milwaukee, Wisconsin, United States"
+},
+{
+    "name": "University of Wyoming",
+    "rank": "148",
+    "location": "Laramie, Wyoming, United States"
+},
+{
+    "name": "Utah State University",
+    "rank": "148",
+    "location": "Logan, Utah, United States"
+},
+{
+    "name": "Western Michigan University",
+    "rank": "148",
+    "location": "Kalamazoo, Michigan, United States"
+},
+{
+    "name": "Wichita State University",
+    "rank": "148",
+    "location": "Wichita, Kansas, United States"
+},
+{
+    "name": "Air Force Institute of Technology",
+    "rank": "174",
+    "location": "Wright-Patterson AFB,\nDayton, Ohio, United States"
+},
+{
+    "name": "Florida Institute of Technology",
+    "rank": "174",
+    "location": "Melbourne, Florida, United States"
+},
+{
+    "name": "Indiana State University",
+    "rank": "174",
+    "location": "Location not found"
+},
+{
+    "name": "Missouri S&T",
+    "rank": "174",
+    "location": "Rolla, Missouri, United States"
+},
+{
+    "name": "Missouri University of Technology",
+    "rank": "174",
+    "location": "Rolla, Missouri, United States"
+},
+{
+    "name": "Montana State University",
+    "rank": "174",
+    "location": "Bozeman, Montana, United States"
+},
+{
+    "name": "New Mexico Tech",
+    "rank": "174",
+    "location": "Socorro, New Mexico, United States"
+},
+{
+    "name": "Nova Southeastern University",
+    "rank": "174",
+    "location": "Fort Lauderdale-Davie[8][9], Florida, United States"
+},
+{
+    "name": "Oakland University",
+    "rank": "174",
+    "location": "Auburn Hills and Rochester Hills, Michigan, United States"
+},
+{
+    "name": "SIU Carbondale",
+    "rank": "174",
+    "location": "Carbondale, Illinois, United States"
+},
+{
+    "name": "Southern Methodist University",
+    "rank": "174",
+    "location": "University Park, Texas, United States"
+},
+{
+    "name": "University of Alabama - Huntsville",
+    "rank": "174",
+    "location": "Huntsville, Alabama, United States"
+},
+{
+    "name": "University of Louisville",
+    "rank": "174",
+    "location": "Louisville, Kentucky, United States"
+},
+{
+    "name": "University of Miami",
+    "rank": "174",
+    "location": "Coral Gables-Miami, Florida, United States"
+},
+{
+    "name": "University of Missouri - Kansas City",
+    "rank": "174",
+    "location": "Kansas City, Missouri, United States"
+},
+{
+    "name": "University of Tulsa",
+    "rank": "174",
+    "location": "Tulsa, Oklahoma, United States"
+}
+]
