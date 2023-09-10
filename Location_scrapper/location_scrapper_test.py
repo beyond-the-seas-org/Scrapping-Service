@@ -1,10 +1,8 @@
-from selenium import webdriver
-from selenium.webdriver.common.by import By
-from selenium.webdriver.chrome.options import Options
+import json
+import requests
+locations =json.load(open("location_details_136.json", encoding="utf8"))
 
-import time
 
-dictt = {}
-dict = {"name": "University of California, San Diego", "rank": "1", "location": "Location not found"}
+print(len(locations))
 
-print(dict.keys().__contains__("error"))
+

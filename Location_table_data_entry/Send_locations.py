@@ -2,7 +2,7 @@
 
 import json
 import requests
-locations =json.load(open("location_details_main.json", encoding="utf8"))
+locations =json.load(open("location_details_30_v2.json", encoding="utf8"))
 
 
 try:

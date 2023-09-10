@@ -1,0 +1,192 @@
+[
+{
+    "name": "Carnegie Mellon University",
+    "rank": "1",
+    "location": "Pittsburgh, Pennsylvania, United States"
+},
+{
+    "name": "Univ. of Illinois at Urbana-Champaign",
+    "rank": "2",
+    "location": "Urbana and Champaign, Illinois, United States"
+},
+{
+    "name": "Univ. of California - San Diego",
+    "rank": "3",
+    "location": "La Jolla, San Diego, California, United States"
+},
+{
+    "name": "Massachusetts Institute of Technology",
+    "rank": "4",
+    "location": "Cambridge, Massachusetts, United States"
+},
+{
+    "name": "Georgia Institute of Technology",
+    "rank": "5",
+    "location": "Atlanta, Georgia, United States"
+},
+{
+    "name": "Stanford University",
+    "rank": "6",
+    "location": "Stanford, California, United States"
+},
+{
+    "name": "University of Michigan",
+    "rank": "7",
+    "location": "Ann Arbor, Michigan, United States"
+},
+{
+    "name": "University of Washington",
+    "rank": "8",
+    "location": "Seattle, Washington, United States"
+},
+{
+    "name": "Univ. of California - Berkeley",
+    "rank": "9",
+    "location": "Berkeley, California, United States"
+},
+{
+    "name": "Cornell University",
+    "rank": "10",
+    "location": "Ithaca, New York, United States"
+},
+{
+    "name": "University of Maryland - College Park",
+    "rank": "11",
+    "location": "College Park, Maryland, United States"
+},
+{
+    "name": "Northeastern University",
+    "rank": "12",
+    "location": "Boston, Massachusetts, United States"
+},
+{
+    "name": "University of Wisconsin - Madison",
+    "rank": "13",
+    "location": "Madison, Wisconsin, United States"
+},
+{
+    "name": "Columbia University",
+    "rank": "14",
+    "location": "New York, New York, United States"
+},
+{
+    "name": "Purdue University",
+    "rank": "15",
+    "location": "West Lafayette, Indiana, United States"
+},
+{
+    "name": "University of Texas at Austin",
+    "rank": "15",
+    "location": "Austin, Texas, United States"
+},
+{
+    "name": "University of Pennsylvania",
+    "rank": "17",
+    "location": "Philadelphia, Pennsylvania, United States"
+},
+{
+    "name": "University of Massachusetts Amherst",
+    "rank": "19",
+    "location": "Amherst, Massachusetts, United States"
+},
+{
+    "name": "University of Southern California",
+    "rank": "21",
+    "location": "Los Angeles, California, United States"
+},
+{
+    "name": "Univ. of California - Los Angeles",
+    "rank": "22",
+    "location": "Westwood, Los Angeles, California, United States"
+},
+{
+    "name": "Stony Brook University",
+    "rank": "23",
+    "location": "Stony Brook, New York, United States"
+},
+{
+    "name": "University of Chicago",
+    "rank": "23",
+    "location": "Chicago, Illinois, United States"
+},
+{
+    "name": "Univ. of California - Irvine",
+    "rank": "25",
+    "location": "Irvine, California, United States"
+},
+{
+    "name": "Univ. of California - Santa Barbara",
+    "rank": "25",
+    "location": "Santa Barbara, California, United States"
+},
+{
+    "name": "Duke University",
+    "rank": "28",
+    "location": "Durham, North Carolina, United States"
+},
+{
+    "name": "Univ. of California - Riverside",
+    "rank": "28",
+    "location": "Riverside, California, United States"
+},
+{
+    "name": "Northwestern University",
+    "rank": "30",
+    "location": "Evanston, Illinois, United States"
+},
+{
+    "name": "Pennsylvania State University",
+    "rank": "30",
+    "location": "University Park, Pennsylvania, United States"
+},
+{
+    "name": "Harvard University",
+    "rank": "33",
+    "location": "Cambridge, Massachusetts, United States"
+},
+{
+    "name": "Boston University",
+    "rank": "39",
+    "location": "Boston, Massachusetts, United States"
+},
+{
+    "name": "University of Illinois at Chicago",
+    "rank": "45",
+    "location": "Chicago, Illinois, United States"
+},
+{
+    "name": "University of Pittsburgh",
+    "rank": "57",
+    "location": "Pittsburgh, Pennsylvania, United States"
+},
+{
+    "name": "TTI Chicago",
+    "rank": "68",
+    "location": "Chicago, Illinois, United States"
+},
+{
+    "name": "Emory University",
+    "rank": "79",
+    "location": "Atlanta, Georgia, United States"
+},
+{
+    "name": "Illinois Institute of Technology",
+    "rank": "87",
+    "location": "Chicago, Illinois, United States"
+},
+{
+    "name": "Temple University",
+    "rank": "87",
+    "location": "Philadelphia, Pennsylvania, United States"
+},
+{
+    "name": "Drexel University",
+    "rank": "103",
+    "location": "Philadelphia, Pennsylvania, United States"
+},
+{
+    "name": "DePaul University",
+    "rank": "114",
+    "location": "Chicago, Illinois, United States"
+}
+]
